@@ -1,0 +1,52 @@
+[
+  {
+    "user": "Jriwanek",
+    "icon": "http://mcmoddev.com/img/jri.jpg",
+    "role": "Mod Developer | MMD Admin"
+  },
+  { 
+    "user": "Darkhax",
+    "icon": "http://mcmoddev.com/img/darkhax_600v2.jpg",
+    "role": "Mod Developer | MMD Admin"
+  },
+  { 
+    "user": "TheCodedOne",
+    "icon": "http://i.imgur.com/Q2DpBDL.png",
+    "role": "Web Admin | ASA"
+  },
+  { 
+    "user": "knoxhack",
+    "icon": "http://mcmoddev.com/img/knox.jpg",
+    "role": "Public Admin | Mod Developer"
+  },
+  { 
+    "user": "Morpheous",
+    "icon": "http://mcmoddev.com/img/morph.jpg",
+    "role": "Dev Server Admin"
+  },
+  { 
+    "user": "Zaweri",
+    "icon": "http://mcmoddev.com/img/zaweri.jpg",
+    "role": "Moderator"
+  },
+  { 
+    "user": "lclc98",
+    "icon": "http://mcmoddev.com/img/lclc98.jpg",
+    "role": "Moderator"
+  },
+  { 
+    "user": "Insidious",
+    "icon": "http://mcmoddev.com/img/insidious.jpg",
+    "role": "Moderator"
+  },
+  { 
+    "user": "Cazsius",
+    "icon": "http://mcmoddev.com/img/cazsius.jpg",
+    "role": "Social Team"
+  },
+  { 
+    "user": "Aedda",
+    "icon": "https://avatars3.githubusercontent.com/u/3745280?v=3&s=460",
+    "role": "Dev Server Admin"
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "copy": "Copyright &copy; Minecraft Mod Development 2016"
+  },
+  "data": [
+    {
+      "text": "Home",
+      "url": "home",
+      "href": "http://mcmoddev.com/"
+    },
+    {
+      "text": "Members",
+      "url": "members",
+      "href": "http://mcmoddev.com/members/"
+    },
+    {
+      "text": "Projects",
+      "url": "projects",
+      "href": "http://mcmoddev.com/projects/"
+    },
+    {
+      "text": "Github",
+      "url": "_blank",
+      "href": "https://github.com/MinecraftModDevelopment/"
+    },
+    {
+      "text": "Twitter",
+      "url": "_blank",
+      "href": "https://twitter.com/MCModDev"
+    },
+    {
+      "text": "Discord",
+      "url": "_blank",
+      "href": "http://discord.mcmoddev.com"
+    },
+    {
+      "text": "Jenkins",
+      "url": "_blank",
+      "href": "https://ci.mcmoddev.com/"
+    },
+    {
+      "text": "Maven",
+      "url": "_blank",
+      "href": "https://maven.mcmoddev.com/"
+    }
+  ]
+}
