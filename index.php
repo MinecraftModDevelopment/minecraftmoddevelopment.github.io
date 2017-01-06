@@ -46,7 +46,7 @@
                 <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
-                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                         <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                         </li>'; } ?>
                     </ul>
@@ -62,7 +62,7 @@
         <footer class="clearfix">
             <div class="ink-grid">
                 <ul class="unstyled inline half-vertical-space">
-                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                     <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                     </li>'; } ?>
                 </ul>

@@ -50,7 +50,7 @@
                 <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
-                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                         <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                         </li>'; } ?>
                     </ul>
@@ -63,7 +63,7 @@
             </div>
             <h1>Administration</h1>
             <div class="column-group gutters">
-                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/staff.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
+                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/staff.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
                 <div class="xlarge-25 large-25 all-50">'; echo '
                     <figure class="ink-image">'; echo '
                         <figcaption class="dark">'; echo '
@@ -75,7 +75,7 @@
             </div>
             <h1>Other</h1>
             <div class="column-group gutters">
-                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/members.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
+                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/members.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
                 <div class="xlarge-25 large-25 all-50">'; echo '
                     <figure class="ink-image">'; echo '
                         <figcaption class="dark">'; echo '
@@ -89,7 +89,7 @@
         <footer class="clearfix">
             <div class="ink-grid">
                 <ul class="unstyled inline half-vertical-space">
-                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MinecraftModDevelopment.github.io/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                     <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                     </li>'; } ?>
                 </ul>
