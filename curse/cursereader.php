@@ -4,7 +4,7 @@ $html = file_get_html('https://minecraft.curseforge.com/projects/'.$_GET['c']);
 $json = array();
 $arz=$html->find('div.info-data');
 $json['name']=(string)$html->find('span.overflow-tip')[0];
-$json['desc']=str_replace('"','\"',$html->find('meta[property=og:description]')[0]->content);
+$json['desc']=str_replace('"','',$html->find('meta[property=og:description]')[0]->content);
 $json['icon']=$html->find('a.lightbox')[0]->href;	
 $json['download']=(string)str_replace(array(",","\n"), "", $arz[2]->plaintext);
 $json['created']=$arz[0]->plaintext;
