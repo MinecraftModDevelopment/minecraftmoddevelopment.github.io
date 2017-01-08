@@ -25,6 +25,6 @@ foreach($html->find('div.avatar-wrapper') as $element) {
 }
 $json['categories']=$categories;
 $json['authors']=$authors;
-$json['desc']=$html->find('meta[property=og:description]')[0]->content;
+$json['desc']=str_replace("\"","\\\"",$html->find('meta[property=og:description]')[0]->content);
 $json['icon']=$html->find('a.lightbox')[0]->href;
 echo str_replace(array("<\/div>","<\/span>",'<span class=\"overflow-tip\">','<div class=\"info-data\">'),"",json_encode($json,JSON_PRETTY_PRINT));
