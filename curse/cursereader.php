@@ -12,7 +12,10 @@ $json['lastUpdated']=$arz[1]->plaintext;
 $categories = array();
 $i = 0;
 foreach($html->find('a.e-avatar32') as $element) {
-	$categories[$i]=(string)$element->title;
+	$catego = array();
+	$catego['name']=(string)$element->title;
+	$catego['url']=(string)$element->href;
+	$categories[$i]=$catego;
     $i++;
 }
 $authors = array();
