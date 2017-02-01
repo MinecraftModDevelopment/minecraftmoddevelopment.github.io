@@ -1,17 +1,17 @@
 [
   {
     "user": "Jriwanek",
-    "icon": "http://mcmoddev.com/img/jri.jpg",
+    "icon": "https://cdn.discordapp.com/avatars/137690194718490624/1e85103a0b8935f2f75d315b6cbfe9e4.webp?size=256",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "Darkhax",
-    "icon": "http://mcmoddev.com/img/darkhax_600v2.jpg",
+    "icon": "https://cdn.discordapp.com/avatars/137952759914823681/28acc0e6e237acf47f31889090c8b13e.webp?size=256",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "TheCodedOne",
-    "icon": "http://i.imgur.com/Q2DpBDL.png",
+    "icon": "https://cdn.discordapp.com/avatars/122804815834251267/2f0e47321256757120df7c07b8161bbe.webp?size=256",
     "role": "Web Admin | ASA"
   },
   { 
@@ -42,11 +42,16 @@
   { 
     "user": "Cazsius",
     "icon": "http://mcmoddev.com/img/cazsius.jpg",
-    "role": "Social Team"
+    "role": "Moderator"
   },
   { 
     "user": "Aedda",
     "icon": "https://avatars3.githubusercontent.com/u/3745280?v=3&s=460",
+    "role": "Dev Server Admin"
+  },
+  { 
+    "user": "Boqzo1",
+    "icon": "https://cdn.discordapp.com/avatars/171701588669366272/461d60c76a8c2e8cab78647c49d8321f.webp?size=256",
     "role": "Dev Server Admin"
   }
 ]
