@@ -1,12 +1,12 @@
 [
   {
     "user": "Jriwanek",
-    "icon": "http://i.imgur.com/BAYmT8e.png",
+    "icon": "https://i.imgur.com/BAYmT8e.png",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "Darkhax",
-    "icon": "http://i.imgur.com/pa9Xtaq.png",
+    "icon": "https://i.imgur.com/pa9Xtaq.png",
     "role": "Mod Developer | MMD Admin"
   },
   { 
@@ -16,12 +16,12 @@
   },
   { 
     "user": "knoxhack",
-    "icon": "http://mcmoddev.com/img/knox.jpg",
+    "icon": "https://mcmoddev.com/img/knox.jpg",
     "role": "Public Admin | Mod Developer"
   },
   { 
     "user": "Morpheous",
-    "icon": "http://mcmoddev.com/img/morph.jpg",
+    "icon": "https://mcmoddev.com/img/morph.jpg",
     "role": "Dev Server Admin"
   },
   { 
@@ -31,17 +31,17 @@
   },
   { 
     "user": "lclc98",
-    "icon": "http://mcmoddev.com/img/lclc98.jpg",
+    "icon": "https://mcmoddev.com/img/lclc98.jpg",
     "role": "Moderator"
   },
   { 
     "user": "Insidious",
-    "icon": "http://mcmoddev.com/img/insidious.jpg",
-    "role": "Moderator"
+    "icon": "https://mcmoddev.com/img/insidious.jpg",
+    "role": "Moderator | MMD Admin"
   },
   { 
     "user": "Cazsius",
-    "icon": "http://mcmoddev.com/img/cazsius.jpg",
+    "icon": "https://mcmoddev.com/img/cazsius.jpg",
     "role": "Moderator"
   },
   { 
