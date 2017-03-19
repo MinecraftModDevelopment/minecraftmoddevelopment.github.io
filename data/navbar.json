@@ -1,17 +1,17 @@
 {
   "settings": {
-    "copy": "Copyright &copy; Minecraft Mod Development 2016"
+    "copy": "Copyright &copy; Minecraft Mod Development 2017"
   },
   "data": [
     {
       "text": "Home",
       "url": "home",
-      "href": "http://mcmoddev.com/"
+      "href": "https://mcmoddev.com/"
     },
     {
       "text": "Members",
       "url": "members",
-      "href": "http://mcmoddev.com/members/"
+      "href": "https://mcmoddev.com/members/"
     },
     {
       "text": "Github",
