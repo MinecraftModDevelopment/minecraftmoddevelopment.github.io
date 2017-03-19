@@ -10,31 +10,6 @@
     "role": "Mod Developer | MMD Admin"
   },
   { 
-    "user": "TheCodedOne",
-    "icon": "https://mcmoddev.com/img/thecodedone.png",
-    "role": "Web Admin | Social Team"
-  },
-  { 
-    "user": "Knoxhack",
-    "icon": "https://mcmoddev.com/img/knoxhack.jpg",
-    "role": "Public Admin | Mod Developer"
-  },
-  { 
-    "user": "Morpheous",
-    "icon": "https://mcmoddev.com/img/morpheous.jpg",
-    "role": "Dev Server Admin"
-  },
-  { 
-    "user": "Zaweri",
-    "icon": "https://mcmoddev.com/img/zaweri.jpg",
-    "role": "Moderator"
-  },
-  { 
-    "user": "lclc98",
-    "icon": "https://mcmoddev.com/img/lclc98.jpg",
-    "role": "Moderator"
-  },
-  { 
     "user": "Insidious",
     "icon": "https://mcmoddev.com/img/insidious.jpg",
     "role": "Moderator | MMD Admin"
@@ -45,6 +20,16 @@
     "role": "Moderator"
   },
   { 
+    "user": "Zaweri",
+    "icon": "https://mcmoddev.com/img/zaweri.jpg",
+    "role": "Moderator"
+  },
+  { 
+    "user": "TheCodedOne",
+    "icon": "https://mcmoddev.com/img/thecodedone.png",
+    "role": "Web Admin | Social Team"
+  },
+  { 
     "user": "Aedda",
     "icon": "https://mcmoddev.com/img/aedda.png",
     "role": "Dev Server Admin"
@@ -52,6 +37,11 @@
   { 
     "user": "Boqzo1",
     "icon": "https://mcmoddev.com/img/boqzo1.png",
+    "role": "Dev Server Admin | Social Team"
+  }
+  { 
+    "user": "Morpheous",
+    "icon": "https://mcmoddev.com/img/morpheous.jpg",
     "role": "Dev Server Admin"
   }
 ]
