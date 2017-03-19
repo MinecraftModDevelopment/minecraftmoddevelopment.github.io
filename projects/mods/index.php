@@ -1,38 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Projects | Minecraft Mod Development</title>
-    <meta name="description" content="">
-    <meta name="author" content="ink, cookbook, recipes">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <link rel="shortcut icon" href="../../img/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="../../css/ink-flex.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../css/main.css">
-    <!--[if lt IE 9 ]>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Projects | Minecraft Mod Development</title>
+        <meta name="description" content="">
+        <meta name="author" content="Minecraft Mod Development">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <link rel="stylesheet" type="text/css" href="../../css/ink-flex.min.css">
+        <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="../../css/main.css">
+        <!--[if lt IE 9 ]>
         <link rel="stylesheet" href="css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
         <![endif]-->
-    <script type="text/javascript" src="../../js/modernizr.js"></script>
-    <script type="text/javascript">
-        Modernizr.load({
-            test: Modernizr.flexbox,
-            nope: 'css/ink-legacy.min.css'
-        });
-    </script>
-    <script type="text/javascript" src="../../js/holder.js"></script>
-    <script type="text/javascript" src="../../js/ink-all.min.js"></script>
-    <script type="text/javascript" src="../../js/autoload.js"></script>
-</head>
-
-<body>
-    <div class="ink-grid">
-        <!--[if lte IE 9 ]>
+        <script type="text/javascript" src="../../js/modernizr.js"></script>
+        <script type="text/javascript">
+            Modernizr.load({
+              test: Modernizr.flexbox,
+              nope: 'css/ink-legacy.min.css'
+            });
+        </script>
+        <script type="text/javascript" src="../../js/holder.js"></script>
+        <script type="text/javascript" src="../../js/ink-all.min.js"></script>
+        <script type="text/javascript" src="../../js/autoload.js"></script>
+    </head>
+    <body>
+        <div class="ink-grid">
+            <!--[if lte IE 9 ]>
             <div class="ink-alert basic" role="alert">
                 <button class="ink-dismiss">&times;</button>
                 <p>
@@ -41,60 +39,46 @@
                 </p>
             </div>
             -->
-        <header class="vertical-space">
-            <center>
-                <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="../../img/nodecraft.jpg">
-                </a>
-            </center>
-            <br>
-            <nav class="ink-navigation">
-                <ul class="menu horizontal black">
-                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
-                    <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
-                    </li>'; } ?>
-                </ul>
-            </nav>
-        </header>
-        <div class="column-group vertical-space">
-            <div class="all-100">
-                <img src="../../img/logo.jpg">
-                <br>
+            <header class="vertical-space">
+                <center>
+                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="../../img/nodecraft.jpg"></a>
+                </center>
                 <br>
                 <nav class="ink-navigation">
-                    <ul class="breadcrumbs black">
-                        <li><a href="#">Projects</a>
-                        </li>
-                        <li class="active"><a href="#">Mods</a>
-                        </li>
+                    <ul class="menu horizontal black">
+                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                        <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
+                        </li>'; } ?>
                     </ul>
                 </nav>
+            </header>
+            <div class="column-group vertical-space">
+                <div class="all-100">
+                    <img src="../../img/logo.jpg" alt="MMD Logo">
+                    <br>
+                    <br>
+                    <nav class="ink-navigation">
+                         <ul class="breadcrumbs black">
+                            <li><a href="#">Projects</a></li>
+                            <li class="active"><a href="#">Mods</a></li>
+                        </ul>
+                    </nav>
+                </div>
             </div>
-        </div>
-
         <h1>Mods</h1>
         <div class="ink-grid">
             <div class="column-group horizontal-gutters">
                 <div class="all-33">
                     <nav class="ink-navigation">
                         <ul class="pagination black">
-                            <li>
-                                <a href="#">
-                                    <<</a>
-                            </li>
-                            <li class="disabled"><a href="#">...</a>
-                            </li>
-                            <li><a href="#">3</a>
-                            </li>
-                            <li><a href="#">4</a>
-                            </li>
-                            <li><a href="#">5</a>
-                            </li>
-                            <li><a href="#">6</a>
-                            </li>
-                            <li class="disabled"><a href="#">...</a>
-                            </li>
-                            <li><a href="#">>></a>
-                            </li>
+                            <li><a href="#"><<</a></li>
+                            <li class="disabled"><a href="#">...</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">6</a></li>
+                            <li class="disabled"><a href="#">...</a></li>
+                            <li><a href="#">>></a></li>
                         </ul>
                     </nav>
                     <br>
@@ -103,12 +87,10 @@
                             <li>
                                 <a href="#">Technology</a>
                                 <ul class="submenu">
-                                    <li><a href="#">...</a>
-                                    </li>
+                                    <li><a href="#">...</a></li>
                                 </ul>
                             </li>
-                            <li class="disabled"><a href="#">Magic</a>
-                            </li>
+                            <li class="disabled"><a href="#">Magic</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -123,32 +105,33 @@
                             </div>
                         </div>
                     </form>
-                    <div><?php
-					$json=file_get_contents('https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/mods.json'); 
-					
-					$arr=json_decode($json);
-					
-					foreach($arr as $entry) {
-					$curse_json=file_get_contents('http://mcmoddev.com/curse/cursereader.php?c='.$entry->{'curseforge'});
-					$curse=json_decode($curse_json);
-echo "\n"; 
-echo "                        <div class=\"column-group horizontal-gutters\">\n"; 
-echo "                            <div class=\"all-15\">\n"; 
-echo "                                <img src=\"".$curse->{'icon'}."\" style=\"width:90px;height:90px;vertical-align:middle\">\n"; 
-echo "                            </div>\n"; 
-echo "                            <div class=\"all-85\">\n"; 
-					echo "                                <b><font size=\"5\">".$curse->{'name'}."</font></b> <small>by <b>".$curse->{'authors'}->{1}."</b></small>\n"; 
-echo "                                <br>\n";
-echo "                                <img src=\"http://cf.way2muchnoise.eu/".$entry->{'curseforge'}.".svg\"></img>   <img src=\"http://cf.way2muchnoise.eu/versions/".$entry->{'curseforge'}.".svg\"></img> ".$curse->{'desc'}."\n"; 
-echo "                            </div>\n"; 
-echo "                        </div>\n"; 
-echo "                        <hr>\n";
-					}
+                    <div>
+<?php
+    $json=file_get_contents('https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/mods.json'); 
+    $arr=json_decode($json);
+
+    foreach($arr as $entry) {
+        $curse_json=file_get_contents('http://mcmoddev.com/curse/cursereader.php?c='.$entry->{'curseforge'});
+        $curse=json_decode($curse_json);
+        echo "\n"; 
+        echo "                        <div class=\"column-group horizontal-gutters\">\n"; 
+        echo "                            <div class=\"all-15\">\n"; 
+        echo "                                <img src=\"".$curse->{'icon'}."\" style=\"width:90px;height:90px;vertical-align:middle\">\n"; 
+        echo "                            </div>\n"; 
+        echo "                            <div class=\"all-85\">\n"; 
+        echo "                                <b><font size=\"5\">".$curse->{'name'}."</font></b> <small>by <b>".$curse->{'authors'}->{1}."</b></small>\n"; 
+        echo "                                <br>\n";
+        echo "                                <img src=\"http://cf.way2muchnoise.eu/".$entry->{'curseforge'}.".svg\"></img>   <img src=\"http://cf.way2muchnoise.eu/versions/".$entry->{'curseforge'}.".svg\"></img> ".$curse->{'desc'}."\n"; 
+        echo "                            </div>\n"; 
+        echo "                        </div>\n"; 
+        echo "                        <hr>\n";
+    }
 ?>
                     </div>
                 </div>
             </div>
         </div>
+		<div class="push"></div>
         <footer class="clearfix">
             <div class="ink-grid">
                 <ul class="unstyled inline half-vertical-space">
@@ -159,9 +142,8 @@ echo "                        <hr>\n";
                 <p class="note">
                     <?php echo $arr->{'settings'}->{'copy'}; ?>
                 </p>
-                <p class="note">Copyright &copy Minecraft Mod Development 2016</p>
+                <br>
             </div>
         </footer>
-</body>
-
+    </body>
 </html>

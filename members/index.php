@@ -1,6 +1,5 @@
-<?php?>
-    <html lang="en">
-
+<!DOCTYPE html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -21,16 +20,14 @@
         <script type="text/javascript" src="../js/modernizr.js"></script>
         <script type="text/javascript">
             Modernizr.load({
-                test: Modernizr
-                    .flexbox,
-                nope: 'css/ink-legacy.min.css'
+              test: Modernizr.flexbox,
+              nope: 'css/ink-legacy.min.css'
             });
         </script>
         <script type="text/javascript" src="../js/holder.js"></script>
         <script type="text/javascript" src="../js/ink-all.min.js"></script>
         <script type="text/javascript" src="../js/autoload.js"></script>
     </head>
-
     <body>
         <div class="ink-grid">
             <!--[if lte IE 9 ]>
@@ -44,8 +41,7 @@
             -->
             <header class="vertical-space">
                 <center>
-                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="../img/nodecraft.jpg">
-                    </a>
+                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="../img/nodecraft.jpg" alt="Nodecraft Banner"></a>
                 </center>
                 <br>
                 <nav class="ink-navigation">
@@ -58,7 +54,7 @@
             </header>
             <div class="column-group vertical-space">
                 <div class="all-100">
-                    <img src="../img/logo.jpg">
+                    <img src="../img/logo.jpg" alt="MMD Logo">
                 </div>
             </div>
             <h1>Administration</h1>
@@ -100,5 +96,4 @@
             </div>
         </footer>
     </body>
-
-    </html>
+</html>

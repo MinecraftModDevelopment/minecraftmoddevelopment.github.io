@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Home | Minecraft Mod Development</title>
         <meta name="description" content="">
-        <meta name="author" content="ink, cookbook, recipes">
+        <meta name="author" content="Minecraft Mod Development">
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
         <meta name="mobile-web-app-capable" content="yes">
@@ -21,7 +21,7 @@
         <script type="text/javascript">
             Modernizr.load({
               test: Modernizr.flexbox,
-              nope : 'css/ink-legacy.min.css'
+              nope: 'css/ink-legacy.min.css'
             });
         </script>
         <script type="text/javascript" src="js/holder.js"></script>
@@ -41,7 +41,7 @@
             -->
             <header class="vertical-space">
                 <center>
-                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="img/nodecraft.jpg"></a>
+                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="img/nodecraft.jpg" alt="Nodecraft Banner"></a>
                 </center>
                 <br>
                 <nav class="ink-navigation">
@@ -54,7 +54,7 @@
             </header>
             <div class="column-group vertical-space">
                 <div class="all-100">
-                    <img src="img/logo.jpg">
+                    <img src="img/logo.jpg" alt="MMD Logo">
                 </div>
             </div>
         </div>

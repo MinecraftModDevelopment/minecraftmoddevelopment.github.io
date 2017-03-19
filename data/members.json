@@ -1,13 +1,13 @@
 [
   {
-    "user": "Cyanobacterium",
-    "icon": "https://mcmoddev.com/img/cyano.jpg",
-    "role": "Former Developer"
+    "user": "DShadowWolf",
+    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
+    "role": "Mod Developer"
   },
   {
-    "user": "iLexiconn",
-    "icon": "https://mcmoddev.com/img/ilexiconn.jpg",
-    "role": "Retired"
+    "user": "Epiic_Thundercat",
+    "icon": "https://mcmoddev.com/img/epiic_thundercat.jpg",
+    "role": "Mod Developer"
   },
   {
     "user": "SeqSEE",
@@ -21,18 +21,8 @@
   },
   {
     "user": "RacerDelux",
-    "icon": "https://mcmoddev.com/img/racerdeluxe.jpg",
+    "icon": "https://mcmoddev.com/img/racerdelux.jpg",
     "role": "Mod Developer"
-  },
-  {
-    "user": "Epiic_Thundercat",
-    "icon": "https://mcmoddev.com/img/racerdeluxe.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "Faenum",
-    "icon": "https://mcmoddev.com/img/faenum_600.jpg",
-    "role": "Artist"
   },
   {
     "user": "cap10zeus",
@@ -43,5 +33,20 @@
     "user": "eejit",
     "icon": "https://mcmoddev.com/img/eejit.jpg",
     "role": "Artist"
+  },
+  {
+    "user": "Faenum",
+    "icon": "https://mcmoddev.com/img/Faenum.jpg",
+    "role": "Artist"
+  },
+  {
+    "user": "Cyanobacterium",
+    "icon": "https://mcmoddev.com/img/cyano.jpg",
+    "role": "Former Developer"
+  },
+  {
+    "user": "iLexiconn",
+    "icon": "https://mcmoddev.com/img/ilexiconn.jpg",
+    "role": "Retired"
   }
 ]

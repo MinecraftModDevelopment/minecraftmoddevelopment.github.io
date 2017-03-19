@@ -1,32 +1,32 @@
 [
   {
     "user": "Jriwanek",
-    "icon": "https://i.imgur.com/BAYmT8e.png",
+    "icon": "https://mcmoddev.com/img/jriwanek.png",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "Darkhax",
-    "icon": "https://i.imgur.com/pa9Xtaq.png",
+    "icon": "https://mcmoddev.com/img/darkhax.png",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "TheCodedOne",
-    "icon": "https://i.imgur.com/DDagC5D.png",
+    "icon": "https://mcmoddev.com/img/thecodedone.png",
     "role": "Web Admin | Social Team"
   },
   { 
-    "user": "knoxhack",
-    "icon": "https://mcmoddev.com/img/knox.jpg",
+    "user": "Knoxhack",
+    "icon": "https://mcmoddev.com/img/knoxhack.jpg",
     "role": "Public Admin | Mod Developer"
   },
   { 
     "user": "Morpheous",
-    "icon": "https://mcmoddev.com/img/morph.jpg",
+    "icon": "https://mcmoddev.com/img/morpheous.jpg",
     "role": "Dev Server Admin"
   },
   { 
     "user": "Zaweri",
-    "icon": "https://cdn.discordapp.com/avatars/108636846417801216/3fffa41d71292f4395e7846649f54dee.webp?size=256",
+    "icon": "https://mcmoddev.com/img/zaweri.jpg",
     "role": "Moderator"
   },
   { 
@@ -46,12 +46,12 @@
   },
   { 
     "user": "Aedda",
-    "icon": "https://avatars3.githubusercontent.com/u/3745280?v=3&s=460",
+    "icon": "https://mcmoddev.com/img/aedda.png",
     "role": "Dev Server Admin"
   },
   { 
     "user": "Boqzo1",
-    "icon": "https://i.imgur.com/cl4W6e1.png",
+    "icon": "https://mcmoddev.com/img/boqzo1.png",
     "role": "Dev Server Admin"
   }
 ]
