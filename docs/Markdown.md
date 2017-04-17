@@ -29,7 +29,7 @@ about a wonderful thing
 called markdown Format.
 ```
 
-If you want to add code highlighting to your message, do a multiline quote, but add the name of the language after the first three backticks. For example \```java whill apply Java syntax highlighting to the code.    
+If you want to add code highlighting to your message, do a multiline quote, but add the name of the language after the first three backticks. For example \```java will apply Java syntax highlighting to the code.    
 ```java
     
     /**
