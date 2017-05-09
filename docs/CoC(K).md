@@ -30,7 +30,7 @@ Note that in cases where illegal activity is involved, the details for the poste
 - **Bot Abuse** - Given out to those who take advantage of a bot for malicious purposes. This does not include those who are testing the bot in the proper testing channel. 
 - **Spam** - Given to those who send messages with no value. Things like spamming random characters.
 - **Backseat/Mini Modding** - Given to members who act like a moderator or administrator without having the authority to do so. This does not cover situations where members are being helpful, such as directing others to the appropriate room for discussion. 
-- **Malicious Conduct** - Given to members who behave in a manner which can cause distress, harm or inconvenience to the other members. This includes discrimination, bullying, hate speach, using multiple accounts to evade a ban/warning, doxxing, pinging without a proper cause and so on.
+- **Malicious Conduct** - Given to members who behave in a manner which can cause distress, harm or inconvenience to the other members. This includes discrimination, bullying, hate speech, using multiple accounts to evade a ban/warning, doxxing, pinging without a proper cause and so on.
 - **Unsuitable Name** - Given to members who have a name which is not suitable. These names include those which are insensitive, malicious or deceiving. This **should** be used for staff impersonation as well. 
 - **Other** - This infraction can be given out for misc reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
