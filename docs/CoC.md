@@ -19,7 +19,7 @@ The MMD server uses an infraction based system for handling warnings and bans. M
 - **EULA** - Given out when a member violates the Minecraft EULA, or promotes content that does. This includes sharing or authoring websites, servers, plugins and mods which violate the EULA. 
 - **Illegal Content** - Given out when someone posts content which is illegal, or promotes illegal activity. As MMD servers are located in the United States, the laws of that country will be used as the basis. This includes copyright laws and computer misuse laws. 
 - **Obscene Content** - Given out when someone posts content which is obscene. This includes sexually explicit content, and content which contains intense violence.
-- **Unpermitted Bot** - Given out to bots which have not been cleared to join the server. This includes spam bots and general discord bots. This infraction will cause an automatic perm ban. 
+- **Unpermitted Bot** - Given out to bots which have not been cleared to join the server. This includes spam bots, self bots and general discord bots. This infraction will cause an automatic perm ban. 
 - **Other** - This infraction can be given out for misc reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
 Note that in cases where illegal activity is involved, the details for the poster should be forwarded directly to Discord. 
