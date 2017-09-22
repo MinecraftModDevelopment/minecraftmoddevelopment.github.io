@@ -56,6 +56,8 @@ PLEASE NOTE: Channel owners are allowed to manage their own permissions, *howeve
  * Mention Everyone
  * Manage Channel
 
+In addition, changing the permissions for Staff, Moderators, or MMD Admins is prohibited, as is changing your channel category. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
+
 If a user channel is inactive for 30+ days, a staff member will send a message asking the channel owner to contact staff within 7 days. If they do not contact staff within that time frame the channel will be archived.
 
 ### Special Channels
