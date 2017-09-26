@@ -47,8 +47,18 @@ Keep in mind that some members have weird ways of interacting with each other. D
 Using MMD as a platform to advertise content is not allowed. Exceptions to this policy are made for members who have some sort of relation with MMD. The first exception is made for MMD Partners. This group of people may make promotions and announcements in MMD, provided that they run things by an admin first. The second group of exceptions are for content creators who are recognized by MMD, and are posting in the designated channels. For example, modders are allowed to show off their new mods in `#community-announcements`. It is important to note that there is a difference between answering questions or having a conversation about another project, and a promotion or advertisement post. 
 
 # Channel Policy
-**NOTE: This policy is subject to radical change following the Discord channel list update!**    
-MMD currently allows members to request text channels be created. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. Given the current limits of the Discord platform channel list spam is something which must be considered when handling a request for a new channel. The channel list is partially alphabetic, so please make sure new channels are added to the right place. Channels which are core to mmd such as `#general` should not be alphabetized and instead put near the top of the list. This exception also applies to partnered channels and several edge cases which will be known to staff. If a user channel is inactive for 30+ days, a message should be sent asking the requester to contact staff within 7 days. If they do not contact staff within that time frame the channel should be deleted. 
+**NOTE: This policy to be considered a work in progress due to the recent Channel Categories update!**
+
+MMD currently allows members to request text channels that were previously archived to be reactivated, and will soon allow members to request new ones be created. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. The channel list is sorted alphabetically where possible, when adding and reactivating channels staff members should be sure they are added to the right place. All user channels should go in the "Community Mods" category unless otherwise stated.
+
+PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows, and subject to change:
+
+ * Mention Everyone
+ * Manage Channel
+
+In addition, changing the permissions for Staff, Moderators, or MMD Admins is prohibited, as is changing your channel category. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
+
+If a user channel is inactive for 30+ days, a staff member will send a message asking the channel owner to contact staff within 7 days. If they do not contact staff within that time frame the channel will be archived.
 
 ### Special Channels
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
