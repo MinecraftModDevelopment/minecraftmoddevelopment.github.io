@@ -1,42 +1,82 @@
 [
-  {
-    "user": "Jriwanek",
-    "icon": "https://mcmoddev.com/img/jriwanek.jpg",
-    "role": "Mod Developer | MMD Admin"
+	{
+		"user": "Jriwanek",
+		"icon": "https://mcmoddev.com/img/jriwanek.jpg",
+		"role": "Mod Developer | MMD Admin"
+	},
+	{ 
+		"user": "Darkhax",
+		"icon": "https://mcmoddev.com/img/darkhax.png",
+		"role": "Mod Developer | MMD Admin"
+	},
+	{ 
+		"user": "Insidious",
+		"icon": "https://mcmoddev.com/img/insidious.jpg",
+		"role": "MMD Admin"
+	},
+	{
+		"user": "JamiesWhiteShirt",
+		"icon": "https://mcmoddev.com/img/jamies.jpg",
+		"role": "Moderator"
+	},
+	{
+		"user": "Poke",
+		"icon": "https://mcmoddev.com/img/poke.jpg",
+		"role": "Moderator"
+	},
+	{
+    "user": "DShadowWolf",
+    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
+    "role": "Mod Developer | Moderator"
+  },
+	{ 
+		"user": "Cazsius",
+		"icon": "https://mcmoddev.com/img/cazsius.jpg",
+		"role": "Mod Developer | Moderator"
+	},
+	{ 
+		"user": "Zaweri",
+		"icon": "https://mcmoddev.com/img/zaweri.jpg",
+		"role": "Moderator | Public Server Admin"
+	},
+	{ 
+		"user": "Jared",
+		"icon": "https://mcmoddev.com/img/jared.jpg",
+		"role": "Dev Server Admin"
+	},
+	{
+    "user": "Carstorm",
+    "icon": "https://mcmoddev.com/img/carstorm.jpg",
+    "role": "Public Server Admin"
   },
   { 
-    "user": "Darkhax",
-    "icon": "https://mcmoddev.com/img/darkhax.png",
-    "role": "Mod Developer | MMD Admin"
+    "user": "Spice",
+    "icon": "https://mcmoddev.com/img/sice.jpg",
+    "role": "Public Server Admin"
   },
   { 
-    "user": "Insidious",
-    "icon": "https://mcmoddev.com/img/insidious.jpg",
-    "role": "Moderator | MMD Admin"
+    "user": "Knoxhack",
+    "icon": "https://mcmoddev.com/img/knoxhack.jpg",
+    "role": "Mod Developer | Public Server Admin"
   },
-  { 
-    "user": "Cazsius",
-    "icon": "https://mcmoddev.com/img/cazsius.jpg",
-    "role": "Moderator"
-  },
-  { 
-    "user": "Zaweri",
-    "icon": "https://mcmoddev.com/img/zaweri.jpg",
-    "role": "Moderator"
-  },
-  { 
-    "user": "Aedda",
-    "icon": "https://mcmoddev.com/img/aedda.png",
-    "role": "Dev Server Admin"
-  },
-  { 
-    "user": "Boqzo1",
-    "icon": "https://mcmoddev.com/img/boqzo1.png",
-    "role": "Dev Server Admin | Social Team"
-  },
-  { 
-    "user": "Morpheous",
-    "icon": "https://mcmoddev.com/img/morpheous.jpg",
-    "role": "Dev Server Admin"
-  }
+	{ 
+		"user": "Aedda",
+		"icon": "https://mcmoddev.com/img/aedda.png",
+		"role": "Dev Server Admin"
+	},
+	{ 
+		"user": "Boqzo1",
+		"icon": "https://mcmoddev.com/img/boqzo1.png",
+		"role": "Dev Server Admin | Social Team"
+	},
+	{ 
+		"user": "Morpheous",
+		"icon": "https://mcmoddev.com/img/morpheous.jpg",
+		"role": "Dev Server Admin"
+	},
+	{ 
+		"user": "Caitie",
+		"icon": "https://mcmoddev.com/img/caitie.jpg",
+		"role": "Staff Server Admin"
+	}
 ]
