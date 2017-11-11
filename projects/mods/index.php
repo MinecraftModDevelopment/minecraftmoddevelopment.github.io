@@ -16,7 +16,7 @@
         <meta property="og:description" content="Mods"/>
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://mcmoddev.com/projects/mods/" />
-        <meta property="og:image" content="https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/img/logo_cutout.jpg" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/img/logo_cutout.png" />
         <meta property="og:image:width" content="741" />
         <meta property="og:image:height" content="210" />
 
