@@ -1,10 +1,5 @@
 [
   {
-    "user": "DShadowWolf",
-    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
-    "role": "Mod Developer"
-  },
-  {
     "user": "Cleverpanda",
     "icon": "http://i.imgur.com/mh0JJyG.jpg",
     "role": "Mod Developer"
@@ -17,7 +12,7 @@
   { 
     "user": "lclc98",
     "icon": "https://mcmoddev.com/img/lclc98.jpg",
-    "role": "Mod Developer"
+    "role": "Diluv"
   },
   { 
     "user": "lewis_mcReu",
@@ -58,6 +53,11 @@
     "user": "Cyanobacterium",
     "icon": "https://mcmoddev.com/img/cyano.jpg",
     "role": "Former Developer"
+  },
+  {
+    "user": "Trentv4",
+    "icon": "https://mcmoddev.com/img/trentv4.jpg",
+    "role": "Diluv"
   },
   {
     "user": "iLexiconn",
