@@ -10,6 +10,16 @@
         <meta name="MobileOptimized" content="320">
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        
+        <!--Open Graph protocol info for embeds-->
+        <meta property="og:title" content="Minecraft Mod Developement" />
+        <meta property="og:description" content="Mods"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://mcmoddev.com/projects/mods/" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/img/logo_cutout.png" />
+        <meta property="og:image:width" content="741" />
+        <meta property="og:image:height" content="210" />
+
         <link rel="shortcut icon" href="../../img/favicon.ico">
         <link rel="stylesheet" type="text/css" href="../../css/ink-flex.min.css">
         <link rel="stylesheet" type="text/css" href="../../css/font-awesome.min.css">
