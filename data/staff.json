@@ -78,5 +78,10 @@
 		"user": "Caitie",
 		"icon": "https://mcmoddev.com/img/caitie.png",
 		"role": "Staff Server Admin"
+	},
+	{ 
+		"user": "ProxyNeko",
+		"icon": "https://mcmoddev.com/img/proxyneko.png",
+		"role": "Public Server Admin"
 	}
 ]
