@@ -63,7 +63,7 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
 - **#artist-talk** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
 - **#bot-spam** - Chat is for using commands on the official MMD bots.
-- **#community-announcements** - Used by the community to share announcements for their own projects. Responses and discussion about said announcements should be done in a separate channel, reaction emoji are fine though. 
+- **#community-announcements** - Used by the community to share announcements for their own projects. We request that you link to the project overview page rather than a direct download. Responses and discussion about announcements should be done in a separate channel, however, adding reaction emoji is fine.
 - **#development** - The place to ask questions about making mods, getting help with your mod code issues, and asking coding questions or talking about code in general.
 - **#getting-started** - Info about how to use our discord, and other important info for new users. 
 - **#general** - The main chat for the server. Off topic discussion is welcome, however politics and overly silly conversation should be done elsewhere. This channel can also be used to ask questions about the discord or make requests.
