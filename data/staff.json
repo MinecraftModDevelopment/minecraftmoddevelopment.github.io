@@ -47,7 +47,7 @@
 	{ 
 		"user": "Jared",
 		"icon": "https://mcmoddev.com/img/jared.jpg",
-		"role": "Diluv"
+		"role": "Bot Manager | Diluv"
 	},
 	{
 		"user": "Carstorm",
@@ -62,12 +62,12 @@
 	{ 
 		"user": "Aedda",
 		"icon": "https://mcmoddev.com/img/aedda.png",
-		"role": "Dev Server Admin"
+		"role": ""
 	},
 	{ 
 		"user": "Boqzo1",
 		"icon": "https://mcmoddev.com/img/boqzo1.png",
-		"role": "Dev Server Admin | Social Team"
+		"role": "Social Team"
 	},
 	{ 
 		"user": "Caitie",
