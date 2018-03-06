@@ -25,9 +25,9 @@
 		"role": "Moderator"
 	},
 	{
-    		"user": "DShadowWolf",
-    		"icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
-    		"role": "Mod Developer | Moderator"
+		"user": "DShadowWolf",
+		"icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
+		"role": "Mod Developer | Moderator"
 	},
 	{ 
 		"user": "Cazsius",
@@ -40,19 +40,19 @@
 		"role": "Moderator | Public Server Admin"
 	},
 	{ 
+		"user": "Morpheus",
+		"icon": "https://mcmoddev.com/img/morpheous.jpg",
+		"role": "Moderator | Public Server Admin"
+	},
+	{ 
 		"user": "Jared",
 		"icon": "https://mcmoddev.com/img/jared.jpg",
-		"role": "Diluv"
+		"role": "Bot Manager | Diluv"
 	},
 	{
-    		"user": "Carstorm",
-    		"icon": "https://mcmoddev.com/img/carstorm.jpg",
-    		"role": "Public Server Admin"
-  	},
-  	{ 
-    		"user": "Spice",
-    		"icon": "https://mcmoddev.com/img/spice.jpg",
-    		"role": "Public Server Admin"
+		"user": "Carstorm",
+		"icon": "https://mcmoddev.com/img/carstorm.jpg",
+		"role": "Public Server Admin"
   	},
   	{ 
    	 	"user": "Knoxhack",
@@ -62,17 +62,12 @@
 	{ 
 		"user": "Aedda",
 		"icon": "https://mcmoddev.com/img/aedda.png",
-		"role": "Dev Server Admin"
+		"role": ""
 	},
 	{ 
 		"user": "Boqzo1",
 		"icon": "https://mcmoddev.com/img/boqzo1.png",
-		"role": "Dev Server Admin | Social Team"
-	},
-	{ 
-		"user": "Morpheous",
-		"icon": "https://mcmoddev.com/img/morpheous.jpg",
-		"role": "Dev Server Admin"
+		"role": "Social Team"
 	},
 	{ 
 		"user": "Caitie",
