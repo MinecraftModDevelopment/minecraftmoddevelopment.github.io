@@ -55,11 +55,6 @@
 		"role": "Public Server Admin"
   	},
   	{ 
-		"user": "Spice",
-		"icon": "https://mcmoddev.com/img/spice.jpg",
-		"role": "Public Server Admin"
-  	},
-  	{ 
    	 	"user": "Knoxhack",
    		"icon": "https://mcmoddev.com/img/knoxhack.jpg",
    		"role": "Mod Developer | Public Server Admin"
