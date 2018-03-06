@@ -40,6 +40,11 @@
 		"role": "Moderator | Public Server Admin"
 	},
 	{ 
+		"user": "Morpheus",
+		"icon": "https://mcmoddev.com/img/morpheous.jpg",
+		"role": "Moderator | Dev Server Admin"
+	},
+	{ 
 		"user": "Jared",
 		"icon": "https://mcmoddev.com/img/jared.jpg",
 		"role": "Diluv"
@@ -68,11 +73,6 @@
 		"user": "Boqzo1",
 		"icon": "https://mcmoddev.com/img/boqzo1.png",
 		"role": "Dev Server Admin | Social Team"
-	},
-	{ 
-		"user": "Morpheous",
-		"icon": "https://mcmoddev.com/img/morpheous.jpg",
-		"role": "Dev Server Admin"
 	},
 	{ 
 		"user": "Caitie",
