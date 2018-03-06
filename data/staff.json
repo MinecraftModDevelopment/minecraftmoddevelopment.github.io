@@ -25,9 +25,9 @@
 		"role": "Moderator"
 	},
 	{
-    		"user": "DShadowWolf",
-    		"icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
-    		"role": "Mod Developer | Moderator"
+		"user": "DShadowWolf",
+		"icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
+		"role": "Mod Developer | Moderator"
 	},
 	{ 
 		"user": "Cazsius",
@@ -45,14 +45,14 @@
 		"role": "Diluv"
 	},
 	{
-    		"user": "Carstorm",
-    		"icon": "https://mcmoddev.com/img/carstorm.jpg",
-    		"role": "Public Server Admin"
+		"user": "Carstorm",
+		"icon": "https://mcmoddev.com/img/carstorm.jpg",
+		"role": "Public Server Admin"
   	},
   	{ 
-    		"user": "Spice",
-    		"icon": "https://mcmoddev.com/img/spice.jpg",
-    		"role": "Public Server Admin"
+		"user": "Spice",
+		"icon": "https://mcmoddev.com/img/spice.jpg",
+		"role": "Public Server Admin"
   	},
   	{ 
    	 	"user": "Knoxhack",
