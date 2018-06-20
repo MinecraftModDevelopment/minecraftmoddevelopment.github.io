@@ -45,6 +45,11 @@
 		"role": "Moderator | Public Server Admin"
 	},
 	{ 
+		"user": "ProxyNeko",
+		"icon": "https://mcmoddev.com/img/proxyneko.png",
+		"role": "Moderator | Public Server Admin"
+	},
+	{ 
 		"user": "Jared",
 		"icon": "https://mcmoddev.com/img/jared.jpg",
 		"role": "Bot Manager | Diluv"
@@ -73,10 +78,5 @@
 		"user": "Caitie",
 		"icon": "https://mcmoddev.com/img/caitie.png",
 		"role": "Staff Server Admin"
-	},
-	{ 
-		"user": "ProxyNeko",
-		"icon": "https://mcmoddev.com/img/proxyneko.png",
-		"role": "Public Server Admin"
 	}
 ]
