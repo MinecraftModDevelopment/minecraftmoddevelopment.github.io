@@ -62,7 +62,7 @@ In addition, changing the permissions for Staff, Moderators, or MMD Admins is pr
 If a user channel is inactive for 30+ days, a staff member will send a message asking the channel owner to contact staff within 7 days. If they do not contact staff within that time frame the channel will be archived.
 
 ## Channels
-- **#readme** - This channel has information about MMD and it's rules. Please make sure you read through it.
+- **#readme** - This channel has information about MMD and its rules. Please make sure you read through it.
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
 - **#community-announcements** - Used by the community to share announcements for their own projects. We request that you link to the project overview page rather than a direct download. Responses and discussion about announcements should be done in a separate channel, however, adding reaction emoji is fine.
 ### GENERAL
@@ -72,7 +72,7 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#showcase** - Used to show new content made by the community, not for posting mod announcements.
 - **#modpacks** - The place used to ask questions about modpack development, and discussion relating to modpacks.
 - **#art** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
-- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff.
+- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime!
 - **#other-games** - A place to talk about games, play games or share news about games with others.
 ### DEVELOPMENT
 - **#mod-development** - The place to ask questions about making mods, getting help with your mod code issues.
@@ -81,8 +81,8 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#forgegradle3-development** - ForgeGeadle 3 development progress and discussion. Ask questions and give ideas for FG3 here.
 - **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
 ### MISC
-- **#role-requests** - Request a modder, artist, translator, modpack maker or streamer(Twitch/YouTube) here. (See Role Requirements for more information)
-- **#channel-management** - Request a channel for your mod/s here (You must have the Modder role already to request a channel.
+- **#role-requests** - Request a modder, artist, translator, modpack maker or streamer (Twitch, YouTube and Mixer) here. (See Role Requirements for more information)
+- **#channel-management** - Request a channel for your mod/s here. (You must have the Modder role already to request a channel)
 ### BOT STUFF
 - **#bot-spam** - This channel is the main place to use any of MMD's bots.
 - **#break-the-bot** - This channel is for testing the bot and new functions it has.
