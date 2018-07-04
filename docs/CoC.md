@@ -5,12 +5,14 @@
 - **Partner** - Partners are people from other servers and groups who have partnered with MMD. They serve as a representative of their group within MMD.
 
 # Role Requirements
-The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. 
+The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the #role-requests channel.
 
-- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must contact MMD Moderators (@Moderators) and provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting.
-- **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must contact a moderator and provide a link to your channel. If you have a big channel, you may be required to provide some verification. 
+- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
+- **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel. If you have a big channel, you may be required to provide some verification. 
 - **Artist** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
-- **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin and discuss it with them. 
+- **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin (@Admin) and discuss it with them.
+- **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
+- **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention @Morpheous1101#8985 or @ProxyNeko#7003 and rquest the role be added to your account.  
 
 # Warnings & Bans
 The MMD server uses an infraction based system for handling warnings and bans. Moderators and admins can issue infractions to members. Each infraction has an associated point value, the higher the points the more serious the infraction is. The types of infractions available are split into major and minor categories. 
@@ -47,31 +49,40 @@ Keep in mind that some members have weird ways of interacting with each other. D
 Using MMD as a platform to advertise content is not allowed. Exceptions to this policy are made for members who have some sort of relation with MMD. The first exception is made for MMD Partners. This group of people may make promotions and announcements in MMD, provided that they run things by an admin first. The second group of exceptions are for content creators who are recognized by MMD, and are posting in the designated channels. For example, modders are allowed to show off their new mods in `#community-announcements`. It is important to note that there is a difference between answering questions or having a conversation about another project, and a promotion or advertisement post. 
 
 # Channel Policy
-
 MMD currently allows members to request new channels to be created. We are also still allowing people with archived channels to reactivate theirs. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. The channel list is sorted alphabetically where possible, when adding and reactivating channels staff members should be sure they are added to the right place. All user channels should go in the "Community Mods" category unless otherwise stated.
 
 PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows, and subject to change:
 
  * Mention Everyone
  * Manage Channel
+ * Sync Permissions (This will break your channels permissions)
 
 In addition, changing the permissions for Staff, Moderators, or MMD Admins is prohibited, as is changing your channel category. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
 
 If a user channel is inactive for 30+ days, a staff member will send a message asking the channel owner to contact staff within 7 days. If they do not contact staff within that time frame the channel will be archived.
 
-### Special Channels
+## Channels
+- **#readme** - This channel has information about MMD and its rules. Please make sure you read through it.
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
-- **#artist-talk** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
-- **#bot-spam** - Chat is for using commands on the official MMD bots.
 - **#community-announcements** - Used by the community to share announcements for their own projects. We request that you link to the project overview page rather than a direct download. Responses and discussion about announcements should be done in a separate channel, however, adding reaction emoji is fine.
-- **#development** - The place to ask questions about making mods, getting help with your mod code issues, and asking coding questions or talking about code in general.
-- **#getting-started** - Info about how to use our discord, and other important info for new users. 
+### GENERAL
 - **#general** - The main chat for the server. Off topic discussion is welcome, however politics and overly silly conversation should be done elsewhere. This channel can also be used to ask questions about the discord or make requests.
-- **#mmd-public-server** - The chat for the public minecraft server. Also contains a relay between server chat and discord.
-- **#mmd-dev-server** - The chat for the private dev server. Also contains a relay between server and discord chat.  
-- **#modpack-talk** - The place used to ask questions about modpack development, and discussion relating to modpacks.
+- **#mmd-public-server** - The chat for the public Minecraft server. Also contains a relay between server chat and discord.
+- **#mmd-dev-server** - The chat for the whitelisted Minecraft dev server. Also contains a relay between server and discord chat. 
 - **#showcase** - Used to show new content made by the community, not for posting mod announcements.
-- **#streams** - Used by streamers to let others know they're streaming. Usually done through a bot.
+- **#modpacks** - The place used to ask questions about modpack development, and discussion relating to modpacks.
+- **#art** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
+- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime!
+- **#other-games** - A place to talk about games, play games or share news about games with others.
+### DEVELOPMENT
+- **#mod-development** - The place to ask questions about making mods, getting help with your mod code issues.
 - **#requests** - Place for general requests, such as new mods, modpacks, art and so on.
-- **#artist-talk** - A chat room specifically for artists to talk in.
-- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. 
+- **#diluv** - The place to find information on Diluv and discuss ideas, features and the service as a whole.
+- **#forgegradle3-development** - ForgeGeadle 3 development progress and discussion. Ask questions and give ideas for FG3 here.
+- **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
+### MISC
+- **#role-requests** - Request a modder, artist, translator, modpack maker or streamer here. (See Role Requirements for more information)
+- **#channel-management** - Request a channel for your mod/s here. (You must have the Modder role already to request a channel)
+### BOT STUFF
+- **#bot-spam** - This channel is the main place to use any of MMD's bots.
+- **#break-the-bot** - This channel is for testing the bot and new functions it has.
