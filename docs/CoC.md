@@ -81,7 +81,7 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#forgegradle3-development** - ForgeGeadle 3 development progress and discussion. Ask questions and give ideas for FG3 here.
 - **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
 ### MISC
-- **#role-requests** - Request a modder, artist, translator, modpack maker or streamer (Twitch, YouTube and Mixer) here. (See Role Requirements for more information)
+- **#role-requests** - Request a modder, artist, translator, modpack maker or streamer here. (See Role Requirements for more information)
 - **#channel-management** - Request a channel for your mod/s here. (You must have the Modder role already to request a channel)
 ### BOT STUFF
 - **#bot-spam** - This channel is the main place to use any of MMD's bots.
