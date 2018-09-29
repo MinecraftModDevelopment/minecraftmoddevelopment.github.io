@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/229851088319283202/353303658202660875/spook_jam.png">
+<img src="https://cdn.discordapp.com/attachments/191289558329982976/493229736844197909/spookygif.gif">
 </p>
 
 I am happy to announce MMD's second annual Spooky Jam. This is a mod making event that is set to take place on the first two weeks of October. Participants in this event are encouraged to create mods that have a spooky/dark/mysterious theme, however fall/autumn or any other seasonally relevant theme can be used. 
