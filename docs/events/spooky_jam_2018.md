@@ -30,6 +30,6 @@ We will be giving out prizes as part of this event. Five participants will be ra
 If you do not want to be eligible for winning one of the prizes, you can ask a member of MMD staff (preferably Darkhax) to remove your name from the draw. If the winner of a prize declines, or does not accept it within a week, another participant who is eligible will be randomly selected.
 
 ## Submissions
-Submissions will officially open once the event has started. Submissions must be made before the end of the event. You are allowed to upload your submissions to other sites like CurseForge before the event has ended. Please try to submit only one version of your mod through our submission process to help us avoid duplicate or incorrect entries. The submission process will also require you to give MMD the necesary permissions to host and distribute your submission as part of a modpack. This document will be modified with specific info on how to submit your project after the event has started.
+Submissions can be made by leaving a comment on [this](https://gist.github.com/darkhax/a8c619d2597383e47166f98dbb98616b) page with the requested info. Submissions must be made before the end of the 14th of October. Please try to only submit one version of your mod to help avoid confusion and additional work. Once your submission has been reviewed, we will update the list of submissions to include your entry. 
 
 Please check out #spookyjam for further announcements and discussion!
