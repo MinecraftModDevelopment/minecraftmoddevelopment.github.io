@@ -1,25 +1,15 @@
 [
   {
     "user": "Cleverpanda",
-    "icon": "http://i.imgur.com/mh0JJyG.jpg",
+    "icon": "https://mcmoddev.com/img/Cleverpanda.jpg",
     "role": "Mod Developer"
   },
-  { 
-    "user": "Knoxhack",
-    "icon": "https://mcmoddev.com/img/knoxhack.jpg",
-    "role": "Mod Developer"
-  },
-  { 
-    "user": "lclc98",
-    "icon": "https://mcmoddev.com/img/lclc98.jpg",
-    "role": "Diluv"
-  },
-  { 
+  {
     "user": "Vase of Petunias",
     "icon": "https://mcmoddev.com/img/vaseofpetunias.jpg",
     "role": "Mod Developer"
   },
-  { 
+  {
     "user": "lewis_mcReu",
     "icon": "https://mcmoddev.com/img/lewis_mcreu.jpg",
     "role": "Mod Developer"
@@ -57,16 +47,16 @@
   {
     "user": "Cyanobacterium",
     "icon": "https://mcmoddev.com/img/cyano.jpg",
-    "role": "Former Developer"
-  },
-  {
-    "user": "Trentv4",
-    "icon": "https://mcmoddev.com/img/trentv4.png",
-    "role": "Diluv"
+    "role": "Retired Developer"
   },
   {
     "user": "iLexiconn",
     "icon": "https://mcmoddev.com/img/ilexiconn.jpg",
-    "role": "Retired"
+    "role": "Retired Developer"
+  },
+  {
+    "user": "Trentv4",
+    "icon": "https://mcmoddev.com/img/trentv4.png",
+    "role": "Retired Diluv Developer"
   }
 ]
