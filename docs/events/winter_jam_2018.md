@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="Waiting on a new logo">
+<img src="https://cdn.discordapp.com/attachments/259454515823116290/516399623309623317/winter_jam.png">
 </p>
 
 I am happy to announce MMD's newest Jam, Winter Jam! It tastes like snow!  
