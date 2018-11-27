@@ -3,7 +3,7 @@
 </p>
 
 I am happy to announce MMD's newest Jam, Winter Jam! It tastes like snow!  
-Bad jokes aside this is a mod making event that is set to take place on the first two weeks of December.  
+Bad jokes aside, this is a mod making event that is set to take place on the first two weeks of December.  
 Participants in this event are encouraged to create mods that fit a winter or festive theme. Festive can apply to any tradition, event, or religious ceremony that takes place during this time of year.  
 
 Unlike similar events, Winter Jam is a non competitive event.  
@@ -14,7 +14,7 @@ Participants and those following the event should use the [**#WinterJamMC**](htt
 We will also be using this tag to share update, and to help us find things to retweet.  
 
 ## Guidelines
-The following list of guidelines are in place to provide a fair experience for everyone. Not following these guidelines may result in your project being excluded from various rewards and/or promotions.  
+The following list of guidelines is in place to provide a fair experience for everyone. Not following these guidelines may result in your project being excluded from various rewards and/or promotions.  
 
 1. Submissions should make use of the seasonal theme of the event.  
 2. Teams should be no larger than four members.  
@@ -24,7 +24,7 @@ The following list of guidelines are in place to provide a fair experience for e
 6. Any open source libraries are allowed. Participants are responsible for any issues their required libraries cause.  
 7. Submissions should work with Minecraft 1.12.2, and the latest version of Forge and stable MCP for 1.12.2.  
 8. You may submit multiple entries, or participate on multiple teams.  
-9. Mod generators such as MCreator are not allowed. Tools which generate pieces of code, such as IDE tools or some modeling programs is fine.  
+9. Mod generators such as MCreator are not allowed. Tools which generate pieces of code, such as IDE tools or some modeling programs are fine.  
 10. Submissions should be visible source.  
 
 Please note that the time zones for this event are somewhat loose. The event officially starts when the first time zone enters December 1st, and will officially end when the last time zone enters the 15th.  
