@@ -4,7 +4,7 @@
 
 I am happy to announce MMD's newest Jam, Winter Jam! It tastes like snow!  
 Bad jokes aside this is a mod making event that is set to take place on the first two weeks of December.  
-Participants in this event are encouraged to create mods that have a winter/cold/xmas/presents theme, however you are not fully restricted to this, for example you can use autumnal colors and themes as well.  
+Participants in this event are encouraged to create mods that fit a winter or festive theme. Festive can apply to any tradition, event, or religious ceremony that takes place during this time of year.  
 
 Unlike similar events, Winter Jam is a non competitive event.  
 The focus of this event is learning new things, challenging yourself, and encouraging the creation of new content.  
