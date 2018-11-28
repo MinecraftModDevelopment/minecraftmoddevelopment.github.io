@@ -30,7 +30,7 @@ The following list of guidelines is in place to provide a fair experience for ev
 Please note that the time zones for this event are somewhat loose. The event officially starts when the first time zone enters December 1st, and will officially end when the last time zone enters the 31st.  
 
 ## Rewards
-We will be giving out prizes as part of this event. Five participants will be randomly chosen to receive a 200 curse point prize. To be eligible for this prize pool, you must submit a mod that follows the guidelines or be part of a team that has.  
+We will be giving out prizes as part of this event. Five participants will be randomly chosen to receive a curse point prize. To be eligible for this prize pool, you must submit a mod that follows the guidelines or be part of a team that has.  
 MMD staff, partners, and community representatives are not eligible to win, but are still allowed to participate in the event.  
 Prizes will be given to random individual participants, and not to a specific team or project. This means that being on multiple teams or submitting multiple projects will not affect your chances of winning. Each participant is only allowed to be selected once, meaning that a participant can only win one of the prizes.  
 
