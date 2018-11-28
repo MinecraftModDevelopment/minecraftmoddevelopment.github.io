@@ -22,7 +22,7 @@ The following list of guidelines is in place to provide a fair experience for ev
 4. All submissions should be able to run on a server without crashing it. Please test on a dedicated server not a Lan server.  
 5. All assets and code should be created during the event. Open sourced assets that were made before the event are allowed.  
 6. Any open source libraries are allowed. Participants are responsible for any issues their required libraries cause.  
-7. Submissions should work with Minecraft 1.12.2, and the latest version of Forge for 1.12.2.  
+7. Submissions should work with Minecraft 1.12.2, and Forge version: 1.12.2-14.23.5.2784.
 8. You may submit multiple entries, or participate on multiple teams.  
 9. Mod generators such as MCreator are not allowed. Tools which generate pieces of code, such as IDE tools or some modeling programs are fine.  
 10. Submissions should be visible source.  
