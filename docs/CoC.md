@@ -76,9 +76,8 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#other-games** - A place to talk about games, play games or share news about games with others.
 ### DEVELOPMENT
 - **#mod-development** - The place to ask questions about making mods, getting help with your mod code issues.
-- **#requests** - Place for general requests, such as new mods, modpacks, art and so on.
-- **#diluv** - The place to find information on Diluv and discuss ideas, features and the service as a whole.
-- **#forgegradle3-development** - ForgeGeadle 3 development progress and discussion. Ask questions and give ideas for FG3 here.
+- **#requests** - The place for people to post requests for art, mods and other things. Responses and discussion about requests should be done in the **#requests-discussion** channel, however, adding reaction emoji is fine.
+- **#requests-discussion** - The place to talk about requests posted in #requests
 - **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
 ### MISC
 - **#role-requests** - Request a modder, artist, translator, modpack maker or streamer here. (See Role Requirements for more information)
