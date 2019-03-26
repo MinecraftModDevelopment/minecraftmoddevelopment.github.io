@@ -25,7 +25,7 @@ The MMD server uses an infraction based system for handling warnings and bans. M
 - **Unpermitted Bot** - Given out to bots which have not been cleared to join the server. This includes spam bots, self bots and general discord bots. This infraction will cause an automatic perm ban. 
 - **Other** - This infraction can be given out for misc reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
-Note that in cases where illegal activity is involved, the details for the poster should be forwarded directly to Discord. 
+Note that in cases where illegal activity is involved, the details for the poster should be [reported to Discord Trust and Safety directly](https://support.discordapp.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety). 
 
 ### Minor - 1 point
 - **Flame/Provoke** - Given out to members who make posts with the intention of provoking a negative reaction from other members.
