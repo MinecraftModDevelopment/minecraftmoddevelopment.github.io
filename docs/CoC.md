@@ -11,6 +11,7 @@ The MMD server has many roles which are meant for members of the general communi
 - **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel. If you have a big channel, you may be required to provide some verification. 
 - **Artist** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
 - **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin (@Admin) and discuss it with them.
+- **Community rep** - This role is for members that we consider the best representatives of what we like to see in members of the community.
 - **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
 - **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention @Morpheous1101#8985 or @ProxyNeko#7003 and rquest the role be added to your account.  
 
@@ -24,7 +25,7 @@ The MMD server uses an infraction based system for handling warnings and bans. M
 - **Unpermitted Bot** - Given out to bots which have not been cleared to join the server. This includes spam bots, self bots and general discord bots. This infraction will cause an automatic perm ban. 
 - **Other** - This infraction can be given out for misc reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
-Note that in cases where illegal activity is involved, the details for the poster should be forwarded directly to Discord. 
+Note that in cases where illegal activity is involved, the details for the poster should be [reported to Discord Trust and Safety directly](https://support.discordapp.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety). 
 
 ### Minor - 1 point
 - **Flame/Provoke** - Given out to members who make posts with the intention of provoking a negative reaction from other members.
