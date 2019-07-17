@@ -7,13 +7,13 @@
 # Role Requirements
 The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the #role-requests channel.
 
-- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
+- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)
 - **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel. If you have a big channel, you may be required to provide some verification. 
 - **Artist** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
 - **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin (@Admin) and discuss it with them.
 - **Community rep** - This role is for members that we consider the best representatives of what we like to see in members of the community.
 - **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
-- **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention @Morpheous1101#8985 or @ProxyNeko#7003 and rquest the role be added to your account.  
+- **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention`@MMD Public Server Admins` and request the role be added to your account.  
 
 # Warnings & Bans
 The MMD server uses an infraction based system for handling warnings and bans. Moderators and admins can issue infractions to members. Each infraction has an associated point value, the higher the points the more serious the infraction is. The types of infractions available are split into major and minor categories. 
@@ -38,7 +38,7 @@ Note that in cases where illegal activity is involved, the details for the poste
 - **Other** - This infraction can be given out for misc reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
 ### Infraction Policy
-If a moderator feels that a member is deserving of an infraction, they can issue one of the pre-defined infractions. Infractions are created through a bot, which will require the staff member to include reasoning and evidence. Once the infraction has been completed, it will be entered into our system, and the member being infracted will be sent a direct message through the bot informing them of the infraction. Points will eventually expire, however they will remain in the database. 
+If a moderator feels that a member is deserving of an infraction, they can issue one of the predefined infractions. Infractions are created through a bot, which will require the staff member to include reasoning and evidence. Once the infraction has been completed, it will be entered into our system, and the member being given an infraction will be sent a direct message through the bot informing them of the infraction. Points will eventually expire, however they will remain in the database. 
 
 If a member has 3 infraction points, they will be temporarily suspended from MMD. During the suspension period the admins will review the member's history and determine whether or not a ban is needed. Every further infraction will require invoke another admin review. 
 
@@ -52,7 +52,8 @@ Using MMD as a platform to advertise content is not allowed. Exceptions to this 
 # Channel Policy
 MMD currently allows members to request new channels to be created. We are also still allowing people with archived channels to reactivate theirs. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. The channel list is sorted alphabetically where possible, when adding and reactivating channels staff members should be sure they are added to the right place. All user channels should go in the "Community Mods" category unless otherwise stated.
 
-PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows, and subject to change:
+PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows,
+ and subject to change:
 
  * Mention Everyone
  * Manage Channel
@@ -76,7 +77,8 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 - **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime!
 - **#other-games** - A place to talk about games, play games or share news about games with others.
 ### DEVELOPMENT
-- **#mod-development** - The place to ask questions about making mods, getting help with your mod code issues.
+- **#mc-development** - The place to ask questions about making mods, getting help with your mod code issues.
+- **#other-development** - The place to ask questions or generally discuss non minecraft related coding
 - **#requests** - The place for people to post requests for art, mods and other things. Responses and discussion about requests should be done in the **#requests-discussion** channel, however, adding reaction emoji is fine.
 - **#requests-discussion** - The place to talk about requests posted in #requests
 - **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
