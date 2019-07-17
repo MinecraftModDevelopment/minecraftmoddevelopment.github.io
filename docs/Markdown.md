@@ -3,7 +3,7 @@
 You may have noticed some discord messages have fancy formatting. This is acomplished by using the markdown format. Discord only allows for a specific subset of the format right now. 
 
 ### Basics
-*Italics* - `*Italics*`    
+*Italics* - `*Italics* or _Italics_`    
 **Bold** - `**Bold**`    
 ~~Strikeout~~ - `~~StrikeOut~~`    
 __Underline__ - `__Underline__`    
