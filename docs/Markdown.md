@@ -7,6 +7,7 @@ You may have noticed some discord messages have fancy formatting. This is acompl
 **Bold** - `**Bold**`    
 ~~Strikeout~~ - `~~StrikeOut~~`    
 __Underline__ - `__Underline__`    
+||Spoilered Text|| - `||Spoilered Text||`    
 
 ### Combos
 ***Bold Italics*** - `***Bold Italics***`    
