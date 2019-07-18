@@ -70,21 +70,19 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 ### GENERAL
 - **#general** - The main chat for the server. Off topic discussion is welcome, however politics and overly silly conversation should be done elsewhere. This channel can also be used to ask questions about the discord or make requests.
 - **#mmd-public-server** - The chat for the public Minecraft server. Also contains a relay between server chat and discord.
-- **#mmd-dev-server** - The chat for the whitelisted Minecraft dev server. Also contains a relay between server and discord chat. 
 - **#showcase** - Used to show new content made by the community, not for posting mod announcements.
 - **#modpacks** - The place used to ask questions about modpack development, and discussion relating to modpacks.
 - **#art** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
-- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime!
 - **#other-games** - A place to talk about games, play games or share news about games with others.
+- **#community-mod** - A channel for the mod that the community works on from time to time, feel free to join in and add something random to the mod or just help out!
+- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime or NSFW!
+- **#bot-stuff** - This channel is the main place to use any of MMD's bots.
 ### DEVELOPMENT
 - **#mc-development** - The place to ask questions about making mods, getting help with your mod code issues.
 - **#other-development** - The place to ask questions or generally discuss non minecraft related coding
 - **#requests** - The place for people to post requests for art, mods and other things. Responses and discussion about requests should be done in the **#requests-discussion** channel, however, adding reaction emoji is fine.
 - **#requests-discussion** - The place to talk about requests posted in #requests
-- **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
 ### MISC
+- **#curseforge-feedback** - A channel to talk CurseForge stuff. Bug reports and issues to be raised with staff of CurseForge should be taken to the issue tracker or the CurseForge Discord server at the request of Zeldo and Tech.
 - **#role-requests** - Request a modder, artist, translator, modpack maker or streamer here. (See Role Requirements for more information)
 - **#channel-management** - Request a channel for your mod/s here. (You must have the Modder role already to request a channel)
-### BOT STUFF
-- **#bot-spam** - This channel is the main place to use any of MMD's bots.
-- **#break-the-bot** - This channel is for testing the bot and new functions it has.
