@@ -25,11 +25,6 @@
     "role": "Moderator | Mod Developer"
   },
   {
-    "user": "JamiesWhiteShirt",
-    "icon": "https://mcmoddev.com/img/jamies.jpg",
-    "role": "Moderator"
-  },
-  {
     "user": "Jared",
     "icon": "https://mcmoddev.com/img/jared.jpg",
     "role": "Moderator | Bot Manager"
@@ -38,11 +33,6 @@
     "user": "ProxyNeko",
     "icon": "https://mcmoddev.com/img/proxyneko.png",
     "role": "Moderator | Public Server Admin"
-  },
-  {
-    "user": "Zaweri",
-    "icon": "https://mcmoddev.com/img/zaweri.jpg",
-    "role": "Moderator | Public Server Admin"
   },
   {
     "user": "Carstorm",
@@ -88,5 +78,15 @@
     "user": "Poke",
     "icon": "https://mcmoddev.com/img/poke.jpg",
     "role": "Retired"
+  },
+  {
+    "user": "Zaweri",
+    "icon": "https://mcmoddev.com/img/zaweri.jpg",
+    "role": "Retired"
+  },
+  {
+    "user": "JamiesWhiteShirt",
+    "icon": "https://mcmoddev.com/img/jamies.jpg",
+    "role": "Retired | Community Rep"
   }
 ]
