@@ -2,13 +2,14 @@
 - **Admins** - Admins are the ones making all of the top level decisions. If you have any questions, or want to arrange a partnership with MMD you should talk to them. Admins are expected to deal with public relations, and also make sure everyone is in line. That said they are not the dictators of MMD. 
 - **Moderators** - Moderators help keep an eye on things. They are responsible for giving people the proper roles they need, and making sure everything runs smoothly. They are also responsible for answering questions about MMD, and making sure people are talking in the right place. 
 - **Staff** - This role is for anyone who is considered part of the MMD staff. They will have a similar permission level to moderators, however they also maintain some other major project related to MMD, such as an official MMD server. While they can handle moderator stuff as well, that is not their primary purpose. 
+- **Public Server Admins** - Public Server Admins are responsible for the Public Minecraft server MMD hosts, the channel for this server is #mmd-public-mc-server.  
 - **Partner** - Partners are people from other servers and groups who have partnered with MMD. They serve as a representative of their group within MMD.
 
 # Role Requirements
 The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the #role-requests channel.
 
-- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)
-- **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel. If you have a big channel, you may be required to provide some verification. 
+- **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)  
+- **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel and have Twitch or YouTube linked to your Discord account. If you have a big channel, you may be required to provide some additional verification. 
 - **Artist** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
 - **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin (@Admin) and discuss it with them.
 - **Community rep** - This role is for members that we consider the best representatives of what we like to see in members of the community.
@@ -61,7 +62,8 @@ PLEASE NOTE: Channel owners are allowed to manage their own permissions, *howeve
 
 In addition, changing the permissions for Staff, Moderators, or MMD Admins is prohibited, as is changing your channel category. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
 
-If a user channel is inactive for 30+ days, a staff member will send a message asking the channel owner to contact staff within 7 days. If they do not contact staff within that time frame the channel will be archived.
+If a user channel is inactive for 60+ days, a staff member will send a message asking the channel owner to contact staff within 14 days. If they do not contact staff within that time frame the channel will be archived.
+NOTE: Webhooks do not count towards channels being active, only user activity is counted.
 
 ## Channels
 - **#readme** - This channel has information about MMD and its rules. Please make sure you read through it.
@@ -70,21 +72,17 @@ If a user channel is inactive for 30+ days, a staff member will send a message a
 ### GENERAL
 - **#general** - The main chat for the server. Off topic discussion is welcome, however politics and overly silly conversation should be done elsewhere. This channel can also be used to ask questions about the discord or make requests.
 - **#mmd-public-server** - The chat for the public Minecraft server. Also contains a relay between server chat and discord.
-- **#mmd-dev-server** - The chat for the whitelisted Minecraft dev server. Also contains a relay between server and discord chat. 
 - **#showcase** - Used to show new content made by the community, not for posting mod announcements.
 - **#modpacks** - The place used to ask questions about modpack development, and discussion relating to modpacks.
 - **#art** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
-- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime!
 - **#other-games** - A place to talk about games, play games or share news about games with others.
+- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime or NSFW!
 ### DEVELOPMENT
 - **#mc-development** - The place to ask questions about making mods, getting help with your mod code issues.
 - **#other-development** - The place to ask questions or generally discuss non minecraft related coding
 - **#requests** - The place for people to post requests for art, mods and other things. Responses and discussion about requests should be done in the **#requests-discussion** channel, however, adding reaction emoji is fine.
 - **#requests-discussion** - The place to talk about requests posted in #requests
-- **#other-development** - Talk about other none Minecraft related projects you are working on and ask for help with code here.
 ### MISC
+- **#bot-stuff** - This channel is the main place to use any of MMD's bots.
 - **#role-requests** - Request a modder, artist, translator, modpack maker or streamer here. (See Role Requirements for more information)
 - **#channel-management** - Request a channel for your mod/s here. (You must have the Modder role already to request a channel)
-### BOT STUFF
-- **#bot-spam** - This channel is the main place to use any of MMD's bots.
-- **#break-the-bot** - This channel is for testing the bot and new functions it has.
