@@ -2,12 +2,12 @@
 $json = '[
   {
     "user": "Jriwanek",
-    "icon": "http://mcmoddev.com/img/jri.jpg",
+    "icon": "https://mcmoddev.com/img/jri.jpg",
     "role": "Mod Developer | MMD Admin"
   },
   { 
     "user": "Darkhax",
-    "icon": "http://mcmoddev.com/img/darkhax_600v2.jpg",
+    "icon": "https://mcmoddev.com/img/darkhax_600v2.jpg",
     "role": "Mod Developer | MMD Admin"
   }
 ]';
