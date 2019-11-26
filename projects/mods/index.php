@@ -119,7 +119,7 @@
     $arr=json_decode($json);
 
     foreach($arr as $entry) {
-        $curse_json=file_get_contents('http://mcmoddev.com/curse/cursereader.php?c='.$entry->{'curseforge'});
+        $curse_json=file_get_contents('https://mcmoddev.com/curse/cursereader.php?c='.$entry->{'curseforge'});
         $curse=json_decode($curse_json);
         echo "\n"; 
         echo "                        <div class=\"column-group horizontal-gutters\">\n"; 
@@ -129,7 +129,7 @@
         echo "                            <div class=\"all-85\">\n"; 
         echo "                                <b><font size=\"5\">".$curse->{'name'}."</font></b> <small>by <b>".$curse->{'authors'}->{1}."</b></small>\n"; 
         echo "                                <br>\n";
-        echo "                                <img src=\"http://cf.way2muchnoise.eu/".$entry->{'curseforge'}.".svg\"></img>   <img src=\"http://cf.way2muchnoise.eu/versions/".$entry->{'curseforge'}.".svg\"></img> ".$curse->{'desc'}."\n"; 
+        echo "                                <img src=\"https://cf.way2muchnoise.eu/".$entry->{'curseforge'}.".svg\"></img>   <img src=\"http://cf.way2muchnoise.eu/versions/".$entry->{'curseforge'}.".svg\"></img> ".$curse->{'desc'}."\n"; 
         echo "                            </div>\n"; 
         echo "                        </div>\n"; 
         echo "                        <hr>\n";
