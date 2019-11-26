@@ -51,7 +51,7 @@
             -->
             <header class="vertical-space">
                 <center>
-                    <a href="https://nodecraft.com/?utm_source=MMD&utm_medium=mcmoddev.com"><img src="img/nodecraft.jpg" alt="Nodecraft Banner"></a>
+                    <a href="https://nodecraft.com/r/mmd"><img src="https://nodecraft.com/assets/images/logo-dark.png" alt="Nodecraft Banner"></a>
                 </center>
                 <br>
                 <nav class="ink-navigation">
