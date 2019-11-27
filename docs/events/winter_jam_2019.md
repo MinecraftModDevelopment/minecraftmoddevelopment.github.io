@@ -28,3 +28,9 @@ Please note that the time zones for this event are somewhat loose. The event off
 Submissions can be made by leaving a comment on [this gist]() page with the requested info. Submissions must be made before the 20th of December to give us an idea of how many submissions there will be, you can always add more content while the event is still running and we will update the pack as new features are released. If you fix a bug after you have made your submission, don't worry, you can update/edit your submission with the fixed version we should use, but please ensure it's on curse before you do. Once your submission has been reviewed, we will update the list of submissions to include your entry. 
 
 Please check out #winterjam for further announcements and discussion!  
+
+## Modpack/Server
+After the submissions page has been opened we will put together a modpack containing all the submissions that follow our guidelines. This modpack will be hosted on our event server where everyone is welcome to join and test out the new mods. In addition the modpack will also include previous submissions that have been updated to be compatible with our server. The inclusion of previous year submissions will be done on a request basis so if you author one or have one you want included make sure to request it's inclusion by contacting a staff member. (Preferably ProxyNeko or Darkhax)  
+
+## Rewards
+Due to CurseForge removing our abilitie to transfer points we can sadly no longer offer a paid reward, however participants who make a valid submission will receive a WinterJam2019 role on Discord. This role is purely visual and meant to commemorate the event. Sort of like a badge of honour.  
