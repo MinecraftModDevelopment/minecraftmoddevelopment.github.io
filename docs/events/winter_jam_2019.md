@@ -25,7 +25,7 @@ The following list of guidelines is in place to provide a fair experience for ev
 Please note that the time zones for this event are somewhat loose. The event officially starts when the first time zone enters December 1st, and will officially end when the last time zone enters the 31st.
 
 ## Submissions
-Submissions can be made by leaving a comment on [this gist]() page with the requested info. Submissions must be made before the 20th of December to give us an idea of how many submissions there will be, you can always add more content while the event is still running and we will update the pack as new features are released. If you fix a bug after you have made your submission, don't worry, you can update/edit your submission with the fixed version we should use, but please ensure it's on curse before you do. Once your submission has been reviewed, we will update the list of submissions to include your entry. 
+Submissions can be made by leaving a comment on [this gist](https://gist.github.com/ProxyNeko/37a15f1a918e73df302df523af9e68c6) page with the requested info. Submissions must be made before the 20th of December to give us an idea of how many submissions there will be, you can always add more content while the event is still running and we will update the pack as new features are released. If you fix a bug after you have made your submission, don't worry, you can update/edit your submission with the fixed version we should use, but please ensure it's on curse before you do. Once your submission has been reviewed, we will update the list of submissions to include your entry. 
 
 Please check out #winterjam for further announcements and discussion!  
 
