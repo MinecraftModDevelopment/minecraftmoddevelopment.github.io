@@ -13,14 +13,13 @@ The following list of guidelines is in place to provide a fair experience for ev
 
 1. Submissions should make use of the seasonal theme of the event.
 2. Teams are allowed. We recommend keeping to four members.
-3. Submissions should follow the general theme of WinterJam.
-4. All assets and code should be created during the event.
-5. Submissions should run on a dedicated server. Please be sure to test on a dedicated server not a Lan server.
-6. Submissions should work with Minecraft 1.14.4 and be compatible with the latest release of Forge and MCP.
-7. You may use any library or dependency you want, but you are responsible for issues caused by those dependencies.
-8. You may submit multiple entries, or participate on multiple teams.
-9. Mod generators such as MCreator are not allowed. Tools which generate pieces of code, such as IDE tools or some modeling programs are fine.
-10. Submissions should be visible source.
+3. All assets and code should be created during the event.
+4. Submissions should run on a dedicated server. Please be sure to test on a dedicated server not a Lan server.
+5. Submissions should work with Minecraft 1.14.4 and be compatible with the latest release of Forge and MCP.
+6. You may use any library or dependency you want, but you are responsible for issues caused by those dependencies.
+7. You may submit multiple entries, or participate on multiple teams.
+8. Mod generators such as MCreator are not allowed. Tools which generate pieces of code, such as IDE tools or some modeling programs are fine.
+9. Submissions should be visible source.
 
 Please note that the time zones for this event are somewhat loose. The event officially starts when the first time zone enters December 1st, and will officially end when the last time zone enters the 31st.
 
