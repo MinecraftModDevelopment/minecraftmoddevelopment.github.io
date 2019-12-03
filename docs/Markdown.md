@@ -16,21 +16,43 @@ __**Underline Bold**__ - `__**Underline Bold**__`
 __***Underline Bold Italics***__ - `__***Underline Bold Italics***__`
 
 ### Disabling Markdown
-Discord also provides a way to prevent markdown from being applied, just add a backslash `\` before the markdown character. For example, `\**Not Bold**` will prevent the text from being bold, and the backslash will disapear from the visible text. In the case of combined formats, you may need multiple backslashes. Using the example with all three, you would need four backslashes to disable the markdown. `\__\*\*\*Not Underline Bold Italics***__`
+Discord also provides a way to prevent markdown from being applied, just add a backslash `\` before the markdown character. For example, `\*\*Not Bold\*\*` will prevent the text from being bold, and the backslash will disapear from the visible text. You can be lazy under some circumstances, and `\**only use one backslash**`, but this tends to cause issues with unintended formatting, so it's a good idea to be thorough.
 
 ### Quotes and Code
 
-If you want to do some quoted text, surround the text in backticks \`.    
-`This is quoted text`
+If you want to do some quoted text, start a line with a right angular bracket > **immediately followed by a space**.
+> Some quoted text - `> Some quoted text`
 
-If you want to do a multiline quote, surround the text in three backticks. \```    
+If you want to do a multiline block quote, either start every quoted line like that (including empty ones!)...
+> This is a lengthy quote.
+> It takes up a few lines.
+> 
+> It even has paragraph breaks!
+
+...or start a line with >>> three brackets followed by a space (which will quote the rest of the message).
+```
+I can't show it here, but
+>>> starting from this line,
+the entire rest of the message would be formatted as a block quote.
+```
+
+If you want to do preformatted text (such as for code, mathematical expressions, or ascii art), surround it in backticks \`.    
+`Preformatted Text` - \`Preformatted Text\`
+
+Preformatted text also ignores most markdown, similar to a backslash.
+`As a matter of fact, even \ backslashes are displayed literally.`
+
+If you use markdown *outside* of preformatted text, though, you can still format the text within.
+__***`Preformatted Underline Bold Italics`***__ - \_\_\*\*\*\`Preformatted Underline Bold Italics\`\*\*\*\_\_
+
+If you want to do a block of preformatted text, surround the text in three backticks. \`\`\`    
 ```
 This is a haiku 
 about a wonderful thing 
-called markdown Format.
+called markdown format.
 ```
 
-If you want to add code highlighting to your message, do a multiline quote, but add the name of the language after the first three backticks. For example \```java will apply Java syntax highlighting to the code.    
+If you want to share longer snippets of code, add code highlighting to your message: do a preformatted block, but add the name of the language after the first three backticks. For example \```java will apply Java syntax highlighting to the code.    
 ```java
     
     /**
