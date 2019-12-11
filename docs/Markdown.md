@@ -22,9 +22,13 @@ __***Underline Bold Italics***__ - `__***Underline Bold Italics***__`
 ~~***Strikeout Bold Italics***~~ - `~~***Strikeout Bold Italics***~~`
 
 The below may not be supported on all systems, and are not supported on GitHub, but work on Discord on Windows, at least.
+
 ~~__Strikeout Underline__~~ - `~~__Strikeout Underline__~~`
+
 ~~__*Strikeout Underline Italics*__~~ - `~~__*Strikeout Underline Italics*__~~`
+
 ~~__**Strikeout Underline Bold**__~~ - `~~__**Strikeout Underline Bold**__~~`
+
 ~~__***Strikeout Underline Bold Italics***__~~ - `~~__***Strikeout Underline Bold Italics***__~~`
 
 
