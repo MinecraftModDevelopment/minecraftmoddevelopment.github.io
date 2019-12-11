@@ -14,6 +14,15 @@ __Underline__ - `__Underline__`
 __*Underline Italics*__ - `__*Underline Italics*__`    
 __**Underline Bold**__ - `__**Underline Bold**__`    
 __***Underline Bold Italics***__ - `__***Underline Bold Italics***__`
+~~*Strikeout Italics*~~ - `~~*Strikeout Italics*~~`
+~~**Strikeout Bold**~~ - `~~**Strikeout Bold**~~`
+~~***Strikeout Bold Italics***~~ - `~~***Strikeout Bold Italics***~~`
+The below may not be supported on all systems, and is not supported on GitHub
+~~__Strikeout Underline__~~ - `~~__Strikeout Underline__~~`
+~~__*Strikeout Underline Italics*__~~ - `~~__*Strikeout Underline Italics*__~~`
+~~__**Strikeout Underline Bold**__~~ - `~~__**Strikeout Underline Bold**__~~`
+~~__***Strikeout Underline Bold***__~~ - `~~__***Strikeout Underline Bold Italics***__~~`
+
 
 ### Disabling Markdown
 Discord also provides a way to prevent markdown from being applied, just add a backslash `\` before the markdown character. For example, `\*\*Not Bold\*\*` will prevent the text from being bold, and the backslash will disapear from the visible text. You can be lazy under some circumstances, and `\**only use one backslash**`, but this tends to cause issues with unintended formatting, so it's a good idea to be thorough.
