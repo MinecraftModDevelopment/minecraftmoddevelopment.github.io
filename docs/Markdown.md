@@ -14,8 +14,11 @@ __Underline__ - `__Underline__`
 __*Underline Italics*__ - `__*Underline Italics*__`    
 __**Underline Bold**__ - `__**Underline Bold**__`    
 __***Underline Bold Italics***__ - `__***Underline Bold Italics***__`
+
 ~~*Strikeout Italics*~~ - `~~*Strikeout Italics*~~`
+
 ~~**Strikeout Bold**~~ - `~~**Strikeout Bold**~~`
+
 ~~***Strikeout Bold Italics***~~ - `~~***Strikeout Bold Italics***~~`
 
 The below may not be supported on all systems, and are not supported on GitHub, but work on Discord on Windows, at least.
