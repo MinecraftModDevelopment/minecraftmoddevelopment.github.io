@@ -14,22 +14,15 @@ __Underline__ - `__Underline__`
 __*Underline Italics*__ - `__*Underline Italics*__`    
 __**Underline Bold**__ - `__**Underline Bold**__`    
 __***Underline Bold Italics***__ - `__***Underline Bold Italics***__`
-
 ~~*Strikeout Italics*~~ - `~~*Strikeout Italics*~~`
-
 ~~**Strikeout Bold**~~ - `~~**Strikeout Bold**~~`
-
 ~~***Strikeout Bold Italics***~~ - `~~***Strikeout Bold Italics***~~`
 
-The below may not be supported on all systems, and is not supported on GitHub
-
+The below may not be supported on all systems, and are not supported on GitHub, but work on Discord on Windows, at least.
 ~~__Strikeout Underline__~~ - `~~__Strikeout Underline__~~`
-
 ~~__*Strikeout Underline Italics*__~~ - `~~__*Strikeout Underline Italics*__~~`
-
 ~~__**Strikeout Underline Bold**__~~ - `~~__**Strikeout Underline Bold**__~~`
-
-~~__***Strikeout Underline Bold***__~~ - `~~__***Strikeout Underline Bold Italics***__~~`
+~~__***Strikeout Underline Bold Italics***__~~ - `~~__***Strikeout Underline Bold Italics***__~~`
 
 
 ### Disabling Markdown
