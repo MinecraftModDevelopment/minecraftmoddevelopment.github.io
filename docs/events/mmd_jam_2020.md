@@ -17,7 +17,7 @@ The following rules are in place to provide a fair experience for everyone. Choo
 This event follows the [UTC time](https://www.timeanddate.com/worldclock/timezone/utc) zone. The event starts when the UTC time zone enters May 2nd and runs until the end of May 16th. 
 
 ## Submissions
-Submissions can be made by commenting on [this]() page with the required info. All submissions must fit into at least one submission category. Submissions must be commented before the end of the event to ensure they are included. 
+Submissions can be made by commenting on [this](https://gist.github.com/Darkhax/c2f2d014320cf1157b57488a91115b0b) page with the required info. All submissions must fit into at least one submission category. Submissions must be commented before the end of the event to ensure they are included. 
 
 The submission categories for this event are **Exploration, Technology, Magic, and General**.
 
