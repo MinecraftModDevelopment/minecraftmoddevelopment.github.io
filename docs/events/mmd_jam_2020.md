@@ -29,14 +29,14 @@ After the submission period has ended we will open up a voting channel on our Di
 
 ## FaQ
 
-**Can I be a part of multiple teams?**
+**Can I be a part of multiple teams?**     
 While it is technically allowed, this is highly discouraged.
 
-**Can I submit multiple entries?**
+**Can I submit multiple entries?**    
 While it is technically allowed, this is highly discouraged. Especially if you are part of a team. 
 
-**Do open-source contributors count as team members?**
+**Do open-source contributors count as team members?**    
 No, only full-on team members count towards the team limit.
 
-**Are there any prizes for those who win?**
-No there are no prizes for this event. All mods which follow the rules will be promoted on our 
+**Are there any prizes for those who win?**    
+No there are no prizes for this events. We will be putting the mods in a modpack and playing them them on our public server however.
