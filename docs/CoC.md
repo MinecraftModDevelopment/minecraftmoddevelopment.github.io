@@ -70,13 +70,13 @@ NOTE: Webhooks do not count towards channels being active, only user activity is
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
 - **#community-announcements** - Used by the community to share announcements for their own projects. We request that you link to the project overview page rather than a direct download. Responses and discussion about announcements should be done in a separate channel, however, adding reaction emoji is fine.
 ### GENERAL
-- **#general** - The main chat for the server. Off topic discussion is welcome, however politics and overly silly conversation should be done elsewhere. This channel can also be used to ask questions about the discord or make requests.
+- **#general** - The main discussion channel on the discord. Conversations don't have to be about Minecraft however extremely off topic discussions should move to #stopthatitsverysilly
 - **#mmd-public-server** - The chat for the public Minecraft server. Also contains a relay between server chat and discord.
 - **#showcase** - Used to show new content made by the community, not for posting mod announcements.
 - **#modpacks** - The place used to ask questions about modpack development, and discussion relating to modpacks.
 - **#art** - Used to discuss art you've made, or wanted to share. Keep the chat SFW!
 - **#other-games** - A place to talk about games, play games or share news about games with others.
-- **#stopthatitsverysilly** - Shitposting, politics, memes, inflammatory but not racist or hateful stuff. And no anime or NSFW!
+- **#stopthatitsverysilly** - Off topic discussion, memes, silly conversations. No hateful, inflamatory, NSFW or anime allowed.
 ### DEVELOPMENT
 - **#mc-development** - The place to ask questions about making mods, getting help with your mod code issues.
 - **#other-development** - The place to ask questions or generally discuss non minecraft related coding
