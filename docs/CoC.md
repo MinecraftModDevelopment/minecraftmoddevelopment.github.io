@@ -1,11 +1,13 @@
-# Staff Roles & Expectations 
+# Code Of Conduct
+
+## Staff Roles & Expectations 
 - **Admins** - Admins are the ones making all of the top level decisions. If you have any questions, or want to arrange a partnership with MMD you should talk to them. Admins are expected to deal with public relations, and also make sure everyone is in line. That said they are not the dictators of MMD.
 - **Moderators** - Moderators help keep an eye on things. They are responsible for giving people the proper roles they need, and making sure everything runs smoothly. They are also responsible for answering questions about MMD, and making sure people are talking in the right place.
 - **Staff** - This role is for anyone who is considered part of the MMD staff. They will have a similar permission level to moderators, however they also maintain some other major project related to MMD, such as an official MMD server. While they can handle moderator stuff as well, that is not their primary purpose.
 - **Public Server Admins** - Public Server Admins are responsible for the Public Minecraft server which MMD hosts, the channel for this server is `#mmd-public-mc-server`.
 - **Partner** - Partners are people from other servers and groups who have partnered with MMD. They serve as a representative of their group within MMD.
 
-# Role Requirements
+## Role Requirements
 The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the `#role-requests channel`.
 
 - **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)  
@@ -16,7 +18,7 @@ The MMD server has many roles which are meant for members of the general communi
 - **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
 - **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention`@MMD Public Server Admins` and request the role be added to your account.  
 
-# Warnings & Bans
+## Warnings & Bans
 The MMD server uses an infraction based system for handling warnings and bans. Moderators and admins can issue infractions to members. Each infraction has an associated point value, the higher the points the more serious the infraction is. The types of infractions available are split into major and minor categories. 
 
 ### Major - 3 points
@@ -47,10 +49,10 @@ There is zero tolerance for misuse of the infraction system. All infractions mus
 
 Keep in mind that some members have weird ways of interacting with each other. Depending on the history between the two members, some interactions which are against the rules may be acceptable. An example of such an exception would be two friends provoking each other. 
 
-# Advertisement
+## Advertisement
 Using MMD as a platform to advertise content is not allowed. Exceptions to this policy are made for members who have some sort of relation with MMD. The first exception is made for MMD Partners. This group of people may make promotions and announcements in MMD, provided that they run things by an admin first. The second group of exceptions are for content creators who are recognized by MMD, and are posting in the designated channels. For example, modders are allowed to show off their new mods in `#community-announcements`. It is important to note that there is a difference between answering questions or having a conversation about another project, and a promotion or advertisement post. 
 
-# Channel Policy
+## Channel Policy
 MMD currently allows members to request new channels to be created. We are also still allowing people with archived channels to reactivate theirs. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. The channel list is sorted alphabetically where possible, when adding and reactivating channels staff members should be sure they are added to the right place. All user channels should go in the "Community Mods" category unless otherwise stated.
 
 PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows,
