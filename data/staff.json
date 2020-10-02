@@ -10,8 +10,8 @@
     "role": "MMD Admin | Bot Manager"
   },
   {
-    "user": "Insidious",
-    "icon": "https://mcmoddev.com/img/insidious.jpg",
+    "user": "GetDizzy",
+    "icon": "https://mcmoddev.com/img/getdizzy.jpg",
     "role": "MMD Admin"
   },
   {
@@ -20,14 +20,14 @@
     "role": "Moderator | Mod Developer"
   },
   {
-    "user": "DShadowWolf",
-    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
-    "role": "Moderator | Mod Developer"
-  },
-  {
     "user": "Jared",
     "icon": "https://mcmoddev.com/img/jared.jpg",
     "role": "Moderator | Bot Manager"
+  },
+  {
+    "user": "Zaweri",
+    "icon": "https://mcmoddev.com/img/zaweri.jpg",
+    "role": "Moderator"
   },
   {
     "user": "ProxyNeko",
@@ -47,7 +47,7 @@
   {
     "user": "lclc98",
     "icon": "https://mcmoddev.com/img/lclc98.jpg",
-    "role": "Bot Manager | Diluv Developer"
+    "role": "Retired | Diluv Developer"
   },
   {
     "user": "Aedda",
@@ -80,9 +80,9 @@
     "role": "Retired"
   },
   {
-    "user": "Zaweri",
-    "icon": "https://mcmoddev.com/img/zaweri.jpg",
-    "role": "Retired"
+    "user": "DShadowWolf",
+    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
+    "role": "Retired | Mod Developer"
   },
   {
     "user": "JamiesWhiteShirt",
