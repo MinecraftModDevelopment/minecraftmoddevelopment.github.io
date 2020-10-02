@@ -5,8 +5,28 @@
     "role": "Mod Developer"
   },
   {
-    "user": "Vase of Petunias",
-    "icon": "https://mcmoddev.com/img/vaseofpetunias.jpg",
+    "user": "sky01",
+    "icon": "https://mcmoddev.com/img/sky01.jpg",
+    "role": "Mod Developer"
+  },
+  {
+    "user": "SkyBlade",
+    "icon": "https://mcmoddev.com/img/skyblade.jpg",
+    "role": "Mod Developer"
+  },
+  {
+    "user": "Will BL",
+    "icon": "https://mcmoddev.com/img/willbl.jpg",
+    "role": "Mod Developer, Bot Developer"
+  },
+  {
+    "user": "YaibaToKen",
+    "icon": "https://mcmoddev.com/img/yaibatoken.jpg",
+    "role": "Mod Developer"
+  },
+  {
+    "user": "Zed (TheUnknownFew)",
+    "icon": "https://mcmoddev.com/img/zed.jpg",
     "role": "Mod Developer"
   },
   {
@@ -15,23 +35,18 @@
     "role": "Mod Developer"
   },
   {
-    "user": "sky01",
-    "icon": "https://mcmoddev.com/img/sky01.jpg",
-    "role": "Mod Developer"
-  },
-  {
     "user": "RacerDelux",
     "icon": "https://mcmoddev.com/img/racerdelux.jpg",
     "role": "Mod Developer"
   },
   {
-    "user": "bms_",
-    "icon": "https://mcmoddev.com/img/bms_.jpg",
-    "role": "Mod Developer"
-  },
-  {
     "user": "cap10zeus",
     "icon": "https://mcmoddev.com/img/zeus.jpg",
+    "role": "Artist"
+  },
+  {
+    "user": "Fox Nekitsune",
+    "icon": "https://mcmoddev.com/img/fox_nekitsune.jpg",
     "role": "Artist"
   },
   {
@@ -43,6 +58,11 @@
     "user": "Faenum",
     "icon": "https://mcmoddev.com/img/Faenum.jpg",
     "role": "Artist"
+  },
+  {
+    "user": "bms_",
+    "icon": "https://mcmoddev.com/img/bms_.jpg",
+    "role": "Retired Developer"
   },
   {
     "user": "Cyanobacterium",
