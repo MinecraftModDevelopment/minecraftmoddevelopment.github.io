@@ -50,7 +50,7 @@
             </div>
             -->
             <header class="vertical-space">
-			    <a href="https://nodecraft.com/r/mmd"><img src="https://nodecraft.com/assets/images/logo-dark.png" widht="300" height="75" alt="Nodecraft Banner" align="right"></a>
+			    <a href="https://nodecraft.com/r/mmd" class="nodecraft-header"><img src="https://nodecraft.com/assets/images/logo-dark.png" width="300" height="75" alt="Nodecraft Banner" align="right"></a>
                 <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
