@@ -5,7 +5,6 @@
 - **Moderators** - Moderators help keep an eye on things. They are responsible for giving people the proper roles they need, and making sure everything runs smoothly. They are also responsible for answering questions about MMD, and making sure people are talking in the right place.
 - **Staff** - This role is for anyone who is considered part of the MMD staff. They will have a similar permission level to moderators, however they also maintain some other major project related to MMD, such as an official MMD server. While they can handle moderator stuff as well, that is not their primary purpose.
 - **Public Server Admins** - Public Server Admins are responsible for the Public Minecraft server which MMD hosts, the channel for this server is `#mmd-public-mc-server`.
-- **Partner** - Partners are people from other servers and groups who have partnered with MMD. They serve as a representative of their group within MMD.
 
 ## Role Requirements
 The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the `#role-requests channel`.
@@ -13,7 +12,6 @@ The MMD server has many roles which are meant for members of the general communi
 - **Modder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)  
 - **Streamer/YouTuber** - This role is for anyone who has a YouTube or livestream channel. There are no size requirements, however some level of continuous activity is expected. To get this role you must provide a link to your channel and have Twitch or YouTube linked to your Discord account. If you have a big channel, you may be required to provide some additional verification. 
 - **Artist** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
-- **Partner** - This role is for representatives of communities outside of MMD. To get this role you must contact an admin (`@Admin`) and discuss it with them.
 - **Community rep** - This role is for members that we consider the best representatives of what we like to see in members of the community.
 - **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is prefered but other options are avalable)
 - **MMD Public Server Players** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack please mention`@MMD Public Server Admins` and request the role be added to your account.  
@@ -68,7 +66,8 @@ If a user channel is inactive for 60+ days, a staff member will send a message a
 NOTE: Webhooks do not count towards channels being active, only user activity is counted.
 
 ## Channels
-- **#readme** - This channel has information about MMD and its rules. Please make sure you read through it.
+- **#rules** - This is where we keep all of our rules, please be sure to read it to save us time and yourself getting into trouble.
+- **#readme** - This channel has information about MMD, how to apply for roles and our invite link. Please make sure you read through it.
 - **#announcements** - Used for announcements related to MMD, Minecraft, the community and partners, along with important world events. 
 - **#community-announcements** - Used by the community to share announcements for their own projects. We request that you link to the project overview page rather than a direct download. Responses and discussion about announcements should be done in a separate channel, however, adding reaction emoji is fine.
 ### GENERAL
@@ -80,8 +79,17 @@ NOTE: Webhooks do not count towards channels being active, only user activity is
 - **#other-games** - A place to talk about games, play games or share news about games with others.
 - **#stopthatitsverysilly** - Off topic discussion, memes, silly conversations. No hateful, inflamatory, NSFW or anime allowed.
 ### DEVELOPMENT
-- **#mc-development** - The place to ask questions about making mods, getting help with your mod code issues.
-- **#other-development** - The place to ask questions or generally discuss non minecraft related coding
+- **mc-dev-1-16** - Development of mods for 1.16 versions.
+- **mc-dev-1-15** - Development of mods for 1.15 versions.
+- **mc-dev-1-12** - Development of mods for 1.12 versions.
+- **mc-dev-other** - Development of mods for any other versions of Minecraft that do not have a dedicated channel.
+- **mc-design** - Get tips and ideas for concepts you are working on or just talk about content you want to make and see if the community have feedback.
+### NON-MC-DEVELOPMENT
+- **#other-development** - The place to ask questions or generally discuss non minecraft related coding.
+- **#other-design** - The place to get design ideas and feedback for other projects you might be working on.
+### COMMISSIONS/IDEAS
+- **free-mod-ideas** - The place to post mod ideas or concepts that you don't have time or skill to create, these are usually for other people to take and create.
+- **idea-discussion** - We talk about these free mod ideas here, give feedback and suggestions or just let the person know that you are taking the ideas to make them work.
 - **#requests** - The place for people to post requests for art, mods and other things. Responses and discussion about requests should be done in the **#requests-discussion** channel, however, adding reaction emoji is fine.
 - **#requests-discussion** - The place to talk about requests posted in #requests
 ### MISC
