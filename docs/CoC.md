@@ -23,6 +23,7 @@ These roles are given at the discretion of the MMD staff when certain conditions
 - **Bot** - This role is for Discord bots that operate on the server, under the guidance of the maintainers.
 - **Bot Maintainer** - This role is for the people that maintain the Discord bots on the server.
 - **Retired Staff** - This role is for staff who retire from their staff position and powers.
+- **SpookyJam 2020** - This role is for anyone who submitted an entry for SpookyJam 2020.
 - **SpookyJam 2019** - This role is for anyone who submitted an entry for SpookyJam 2019. 
 - **WinterJam 2019** - This role is for anyone who submitted an entry for WinterJam 2019.
 - **Nitro Booster** - This role is automatically granted to anyone who boosts the server with Discord Nitro.
