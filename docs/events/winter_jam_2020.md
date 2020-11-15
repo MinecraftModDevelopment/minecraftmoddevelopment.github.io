@@ -10,7 +10,7 @@ Participants and those following the event should use the [**#WinterJamMC**](htt
 The following list of guidelines is in place to provide a fair experience for everyone.  
 Not following these guidelines may result in your project being excluded from various rewards and/or promotions.
 
-1. Projects should be made during the event, starting from the 16th of November and ending on the 16th of December.
+1. Projects should be made during the event, starting from the 16th of November and ending on the 24th of December.
 2. Teams are allowed. We recommend keeping to a max of 4 members.
 3. Submissions should make use of seasonal theme of the event.
 4. All assets and code should be created during the event.
@@ -23,7 +23,7 @@ Not following these guidelines may result in your project being excluded from va
 
 This event would usually start on the 1st of December and run until the 31st of December, however this year we have changed it based on community feedback to give mod makers and players who want to try the mods more time because of Christmas.
 
-The new official start date for WinterJam is the [16th of November](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+Start+Date&iso=20201116T00&p1=%3A) and ends on the [16th of December](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+End+Date&iso=20201216T00&p1=%3A). We are using the UTC time zone for this event.
+The new official start date for WinterJam is the [16th of November](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+Start+Date&iso=20201116T00&p1=%3A) and ends on the [24th of December](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+End+Date&iso=20201224T00&p1=%3A). We are using the UTC time zone for this event.
 
 ## Submissions
 Submissions can be made by leaving a comment [here](https://gist.github.com/ProxyNeko/) with the requested info.
