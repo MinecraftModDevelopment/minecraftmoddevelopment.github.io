@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/463961352432517123/516812016980066307/winter-jam-header-2018.gif">
 </p>
 
-It's time for MMD's third anual WinterJam! It's starting to get rather cold here O_o This is our mod making event where participants are encouraged to create mods that fit a winter, festive, or new years theme. Festive can apply to any tradition, event, or ceremony that takes place during this time of year.
+It's time for MMD's third annual WinterJam! It's starting to get rather cold here O_o This is our mod making event where participants are encouraged to create mods that fit a winter, festive, or new years theme. Festive can apply to any tradition, event, or ceremony that takes place during this time of year.
 
 Participants and those following the event should use the [**#WinterJamMC**](https://twitter.com/search?q=%23winterjammc&src=typd) hashtag on twitter to talk about this event, or use the ``winterjam`` channel on the [MMD Discord server](https://discord.mcmoddev.com). We will also be using this hashtag to share update, and to help us find things to retweet.
 
