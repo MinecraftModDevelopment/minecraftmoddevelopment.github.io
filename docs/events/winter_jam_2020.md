@@ -26,7 +26,7 @@ This event would usually start on the 1st of December and run until the 31st of 
 The new official start date for WinterJam is the [16th of November](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+Start+Date&iso=20201116T00&p1=%3A) and ends on the [24th of December](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MMD+WinterJam+2020+End+Date&iso=20201224T00&p1=%3A). We are using the UTC time zone for this event.
 
 ## Submissions
-Submissions can be made by leaving a comment [here](https://gist.github.com/ProxyNeko/) with the requested info.
+Submissions can be made by leaving a comment [here](https://gist.github.com/ProxyNeko/ddbe7bcf2f125fe51cdeb1b4aae2c65f) with the requested info.
 
 Submissions should be made before the **9th of December** to ensure that they will be added to the server. This will give us time to prepare the server and work out any server related bugs. Please ensure your submission is on CurseForge, has been reviewed, and is not alpha or experimental. We will be updating mods during the event so you can still submit updates later on.
 
