@@ -92,9 +92,9 @@ NOTE: Webhooks do not count towards channels being active, only user activity is
 - **#other-games** - A place to talk about games, play games or share news about games with others.
 - **#stopthatitsverysilly** - Off topic discussion, memes, silly conversations. No hateful, inflammatory, NSFW or anime allowed.
 ### MINECRAFT-DEVELOPMENT
-- **mc-dev-1-16** - Development of mods for 1.16 versions.
-- **mc-dev-1-15** - Development of mods for 1.15 versions.
-- **mc-dev-1-12** - Development of mods for 1.12 versions.
+- **mc-1-17-and-shaders** - Development of mods and shaders for 1.17.
+- **mc-1-16** - Development of mods for 1.16.
+- **mc-1-12** - Development of mods for 1.12.
 - **mc-dev-other** - Development of mods for any other versions of Minecraft that do not have a dedicated channel.
 - **mc-design** - Get tips and ideas for concepts you are working on or just talk about content you want to make and see if the community have feedback.
 ### NON-MC-DEVELOPMENT
