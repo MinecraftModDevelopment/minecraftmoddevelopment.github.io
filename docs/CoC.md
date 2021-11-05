@@ -52,7 +52,7 @@ Note that in cases where illegal activity is involved, the details for the poste
 - **Other** - This infraction can be given out for miscellaneous reasons. Moderators will be required to provide reasoning and evidence for this infraction, which will then be public for all members of staff. There is 0 tolerance for misuse of this infraction. 
 
 ### Infraction Policy
-If a moderator feels that a member is deserving of an infraction, they can issue one of the predefined infractions. Infractions are created through a bot, which will require the staff member to include reasoning and evidence. Once the infraction has been completed, it will be entered into our system, and the member being given an infraction will be sent a direct message through the bot informing them of the infraction. Points will eventually expire, however they will remain in the database. 
+If a moderator feels that a member is deserving of an infraction, they can issue one of the predefined infractions. Infractions are created through a bot, which will require the staff member to include reasoning and evidence. Once the infraction has been completed, it will be entered into our system. Points will eventually expire, however they will remain in the database. 
 
 If a member has 3 infraction points, they will be temporarily suspended from MMD. During the suspension period, the admins will review the member's history and determine whether or not a ban is needed. Every further infraction will require invoke another admin review. 
 
