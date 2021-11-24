@@ -43,7 +43,7 @@ Note that in cases where illegal activity is involved, the details for the poste
 
 ### Minor - 1 point
 - **Flame/Provoke** - Given out to members who make posts with the intention of provoking a negative reaction from other members.
-- **Advertise** - Given out to members who try to take advantage of MMD to promote their own content. Exceptions are commonly made to this rule, such as mod authors sharing their mods, or MMD partners. Please see the advertising policy for more info. 
+- **Advertise** - Given out to members who try to take advantage of MMD to promote their own content, join for the sole purpose of promoting other discords or their content, including people who advertise in their profile. Exceptions are commonly made to this rule, such as mod authors sharing their mods, or MMD partners. Please see the advertising policy for more info. 
 - **Bot Abuse** - Given out to those who take advantage of a bot for malicious purposes. This does not include those who are testing the bot in the proper testing channel. 
 - **Spam** - Given to those who send messages with no value. Things like spamming random characters.
 - **Backseat/Mini Modding** - Given to members who act like a moderator or administrator without having the authority to do so. This does not cover situations where members are being helpful, such as directing others to the appropriate room for discussion. 
