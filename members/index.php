@@ -16,7 +16,7 @@
         <meta property="og:description" content="Members"/>
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://mcmoddev.com/members/" />
-        <meta property="og:image" content="https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/img/logo_cutout.png" />
+        <meta property="og:image" content="https://mcmoddev.com/img/mmd_logo.png" />
         <meta property="og:image:width" content="741" />
         <meta property="og:image:height" content="210" />
 
@@ -40,34 +40,21 @@
     </head>
     <body>
         <div class="ink-grid">
-            <!--[if lte IE 9 ]>
-            <div class="ink-alert basic" role="alert">
-                <button class="ink-dismiss">&times;</button>
-                <p>
-                    <strong>You are using an outdated Internet Explorer version.</strong>
-                    Please <a href="http://browsehappy.com/">upgrade to a modern browser</a> to improve your web experience.
-                </p>
-            </div>
-            -->
             <header class="vertical-space">
-			    <a href="https://nodecraft.com/r/mmd" class="nodecraft-header"><img src="https://nodecraft.com/assets/images/logo-dark.png" width="300" height="75" alt="Nodecraft Banner" align="right"></a>
-                <br>
+                <a href="https://mcmoddev.com" class="logo-header"><img src="img/mmd_logo.png" width="125" height="125" alt="MMD Banner" align="left"></a>
+                <a href="https://nodecraft.com/r/mmd" class="logo-header"><img src="https://nodecraft.com/assets/images/logo-dark.png" width="300" height="75" alt="Nodecraft Banner" align="right"></a>
+			    <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
-                        <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                        <?php $json=file_get_contents( '../data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                         <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                         </li>'; } ?>
                     </ul>
                 </nav>
             </header>
-            <div class="column-group vertical-space">
-                <div class="all-100">
-                    <img src="../img/logo.jpg" alt="MMD Logo">
-                </div>
-            </div>
-            <h1>Administration</h1>
+            <h1>Staff</h1>
             <div class="column-group gutters">
-                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/staff.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
+                <?php $json=file_get_contents( '../data/staff.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
                 <div class="xlarge-25 large-25 all-50">'; echo '
                     <figure class="ink-image">'; echo '
                         <figcaption class="dark">'; echo '
@@ -79,7 +66,7 @@
             </div>
             <h1>Other</h1>
             <div class="column-group gutters">
-                <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/members.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
+                <?php $json=file_get_contents( '../data/members.json'); $arr=json_decode($json); foreach ($arr as $key=> $value) { echo '
                 <div class="xlarge-25 large-25 all-50">'; echo '
                     <figure class="ink-image">'; echo '
                         <figcaption class="dark">'; echo '
@@ -93,7 +80,7 @@
         <footer class="clearfix">
             <div class="ink-grid">
                 <ul class="unstyled inline half-vertical-space">
-                    <?php $json=file_get_contents( 'https://raw.githubusercontent.com/MinecraftModDevelopment/MMD-Site/master/data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
+                    <?php $json=file_get_contents( '../data/navbar.json'); $arr=json_decode($json); foreach ($arr->{'data'} as $key => $value) { echo '
                     <li><a href="'.$value->{'href'}.'">'.$value->{'text'}.'</a>
                     </li>'; } ?>
                 </ul>

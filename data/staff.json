@@ -1,92 +1,42 @@
 [
   {
     "user": "Jriwanek",
-    "icon": "https://mcmoddev.com/img/jriwanek.jpg",
+    "icon": "../img/members/jriwanek.jpg",
     "role": "MMD Admin | Mod Developer"
   },
   {
-    "user": "Darkhax",
-    "icon": "https://mcmoddev.com/img/darkhax.png",
-    "role": "MMD Admin | Bot Manager"
-  },
-  {
     "user": "GetDizzy",
-    "icon": "https://mcmoddev.com/img/getdizzy.jpg",
+    "icon": "../img/members/getdizzy.jpg",
     "role": "MMD Admin"
   },
   {
-    "user": "Cazsius",
-    "icon": "https://mcmoddev.com/img/cazsius.png",
-    "role": "Moderator | Mod Developer"
-  },
-  {
-    "user": "Jared",
-    "icon": "https://mcmoddev.com/img/jared.jpg",
-    "role": "Moderator | Bot Manager"
+    "user": "KiriCattus",
+    "icon": "../img/members/kiricattus.png",
+    "role": "MMD Admin | Bot/Server Admin"
   },
   {
     "user": "Zaweri",
-    "icon": "https://mcmoddev.com/img/zaweri.jpg",
+    "icon": "../img/members/zaweri.jpg",
     "role": "Moderator"
   },
   {
-    "user": "ProxyNeko",
-    "icon": "https://mcmoddev.com/img/proxyneko.png",
-    "role": "Moderator | Public Server Admin"
+    "user": "gigaherz",
+    "icon": "../img/members/gigaherz.png",
+    "role": "Moderator"
+  },
+  {
+    "user": "Curle",
+    "icon": "../img/members/curle.png",
+    "role": "Moderator | Bot/Server Admin"
   },
   {
     "user": "Carstorm",
-    "icon": "https://mcmoddev.com/img/carstorm.jpg",
+    "icon": "../img/members/carstorm.jpg",
     "role": "Public Server Admin"
   },
   {
     "user": "Spice",
-    "icon": "https://mcmoddev.com/img/spice.jpg",
+    "icon": "../img/members/spice.jpg",
     "role": "Public Server Admin"
-  },
-  {
-    "user": "lclc98",
-    "icon": "https://mcmoddev.com/img/lclc98.jpg",
-    "role": "Retired | Diluv Developer"
-  },
-  {
-    "user": "Aedda",
-    "icon": "https://mcmoddev.com/img/aedda.png",
-    "role": "Staff Server Admin"
-  },
-  {
-    "user": "Caitie",
-    "icon": "https://mcmoddev.com/img/caitie.png",
-    "role": "Staff Server Admin"
-  },
-  {
-    "user": "Boqzo1",
-    "icon": "https://mcmoddev.com/img/boqzo1.png",
-    "role": "Retired"
-  },
-  {
-    "user": "Knoxhack",
-    "icon": "https://mcmoddev.com/img/knoxhack.jpg",
-    "role": "Retired | Mod Developer"
-  },
-  {
-    "user": "Morpheus",
-    "icon": "https://mcmoddev.com/img/morpheous.jpg",
-    "role": "Retired"
-  },
-  {
-    "user": "Poke",
-    "icon": "https://mcmoddev.com/img/poke.jpg",
-    "role": "Retired"
-  },
-  {
-    "user": "DShadowWolf",
-    "icon": "https://mcmoddev.com/img/dshadowwolf.jpg",
-    "role": "Retired | Mod Developer"
-  },
-  {
-    "user": "JamiesWhiteShirt",
-    "icon": "https://mcmoddev.com/img/jamies.jpg",
-    "role": "Retired | Community Rep"
   }
 ]

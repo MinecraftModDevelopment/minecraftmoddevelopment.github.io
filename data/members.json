@@ -1,82 +1,27 @@
 [
   {
-    "user": "Cleverpanda",
-    "icon": "https://mcmoddev.com/img/Cleverpanda.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "sky01",
-    "icon": "https://mcmoddev.com/img/sky01.jpg",
+    "user": "skyjay1",
+    "icon": "../img/members/skyjay1.jpg",
     "role": "Mod Developer"
   },
   {
     "user": "SkyBlade",
-    "icon": "https://mcmoddev.com/img/skyblade.jpg",
+    "icon": "../img/members/skyblade.jpg",
     "role": "Mod Developer"
-  },
-  {
-    "user": "Will BL",
-    "icon": "https://mcmoddev.com/img/willbl.jpg",
-    "role": "Mod Developer, Bot Developer"
-  },
-  {
-    "user": "YaibaToKen",
-    "icon": "https://mcmoddev.com/img/yaibatoken.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "Zed (TheUnknownFew)",
-    "icon": "https://mcmoddev.com/img/zed.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "lewis_mcReu",
-    "icon": "https://mcmoddev.com/img/lewis_mcreu.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "RacerDelux",
-    "icon": "https://mcmoddev.com/img/racerdelux.jpg",
-    "role": "Mod Developer"
-  },
-  {
-    "user": "cap10zeus",
-    "icon": "https://mcmoddev.com/img/zeus.jpg",
-    "role": "Artist"
   },
   {
     "user": "Fox Nekitsune",
-    "icon": "https://mcmoddev.com/img/fox_nekitsune.jpg",
-    "role": "Artist"
-  },
-  {
-    "user": "eejit",
-    "icon": "https://mcmoddev.com/img/eejit.jpg",
+    "icon": "../img/members/fox_nekitsune.jpg",
     "role": "Artist"
   },
   {
     "user": "Faenum",
-    "icon": "https://mcmoddev.com/img/Faenum.jpg",
+    "icon": "../img/members/Faenum.jpg",
     "role": "Artist"
   },
   {
-    "user": "bms_",
-    "icon": "https://mcmoddev.com/img/bms_.jpg",
+    "user": "Cyanobacterium AKA DrCyano",
+    "icon": "../img/members/cyano.jpg",
     "role": "Retired Developer"
-  },
-  {
-    "user": "Cyanobacterium",
-    "icon": "https://mcmoddev.com/img/cyano.jpg",
-    "role": "Retired Developer"
-  },
-  {
-    "user": "iLexiconn",
-    "icon": "https://mcmoddev.com/img/ilexiconn.jpg",
-    "role": "Retired Developer"
-  },
-  {
-    "user": "Trentv4",
-    "icon": "https://mcmoddev.com/img/trentv4.png",
-    "role": "Retired Diluv Developer"
   }
 ]
