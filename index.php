@@ -40,7 +40,7 @@
     </head>
     <body>
         <div class="ink-grid">
-            <header class="vertical-space align-right">
+            <header class="vertical-space">
 			    <a href="https://mcmoddev.com" class="logo-header"><img src="img/mmd_logo.png" width="125" height="125" alt="MMD Banner" align="left"></a>
                 <a href="https://nodecraft.com/r/mmd" class="logo-header"><img src="https://nodecraft.com/assets/images/logo-dark.png" width="300" height="75" alt="Nodecraft Banner" align="right"></a>
                 <br>
