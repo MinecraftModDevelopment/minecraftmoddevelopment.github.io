@@ -38,7 +38,6 @@
     <body>
     <div class="ink-grid">
             <header class="vertical-space">
-			    <a href="https://nodecraft.com/r/mmd" class="logo-header"><img src="https://nodecraft.com/assets/images/logo-dark.png" width="300" height="75" alt="Nodecraft Banner" align="right"></a>
                 <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
