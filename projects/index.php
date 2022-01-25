@@ -38,6 +38,7 @@
     <body>
     <div class="ink-grid">
             <header class="vertical-space">
+            <a href="https://mcmoddev.com" class="logo-header"><img src="img/mmd_logo.png" width="125" height="125" alt="MMD Banner" align="left"></a>
                 <br>
                 <nav class="ink-navigation">
                     <ul class="menu horizontal black">
