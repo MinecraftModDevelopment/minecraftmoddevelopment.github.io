@@ -32,7 +32,13 @@ Note that in cases where illegal activity is involved, the details for the poste
 
 - **Spam** - Don't send the same (or very similar) message multiple times, in the same channel or in different channels. This includes crossposting requests and spamming one-word messages. It's incredibly annoying, don't do it. 
 
----- Section: Staff Obligations ----
+---- Section: Roles ----
+
+## Staff Roles
+
+MMD has various roles for keeping track of the members of staff with various responsibilities.  
+If you want to bring something to the attention of a member in any one of these roles, please ping the whole role, rather than any individual member.  
+Please remember that people use offline mode, so it may appear that nobody in a role is online while potentially all of them are.  
 
 - **Admins** - Admins make all of the top-level decisions. If you have any concerns, you should talk to them. Admins deal with public relations, and ensure the community is healthy. That said, they are not dictators. There are always three admins, to ensure that there can never be a stalemate with important decisions. 
 
@@ -45,18 +51,18 @@ Note that in cases where illegal activity is involved, the details for the poste
 Footnote: All staff are volunteers and help out during their free time. Everyone; both staff and community members, are entitled to their own thoughts and beliefs. Sometimes those thoughts won't represent MMD as a whole.
 Remember, staff are humans too and should be treated as such. If you are found to be disrespecting staff, or staff are found disrespecting community members, another member of staff will deal with the issue appropriately.
 
----- Section: Role Requirements ----
+## Community Roles
 
-The MMD server has many roles for members of the community. 
+The MMD server has some roles for members of the community, that you can ask for.
 These roles are given out by moderators when a user goes through the request process. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the `role-and-channel-requests` channel.
 
-- **Mod Coder** - This role is for anyone who was involved in the programming of a mod or plugin for Minecraft. You must have a mod or plugin already published. You must prove that you have contributed to the mod - GitHub and CurseForge screenshots are acceptable. However, MCreator users will ***NOT*** be granted roles, due to our policies.
+- **Mod Coder** - This role is for anyone who was involved in the programming of a mod or plugin for Minecraft. 
 
-- **Artist/Modeler** - This role is for anyone who makes Minecraft models, textures and related artwork. You must prove that you made the model or texture by adding the phrase "MMD" to it, but this can be deleted after verification. Note that this is explicitly for MINECRAFT artwork, you cannot apply with random art you have made.
+- **Artist/Modeler** - This role is for anyone who makes Minecraft models, textures and related artwork. 
 
 - **Community Rep** - This role is for members that we consider the best representatives of what the community has to offer.
 
-- **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to verify with a CurseForge screenshot.
+- **Modpack Maker** - This role is for Modpack developers. 
 
 - **Translator** - This role is for anyone who translates mods to other languages. 
 
@@ -78,18 +84,36 @@ These roles are given at the discretion of the MMD staff when certain conditions
 
 - **WinterJam** - This role is for anyone who submitted an entry for past WinterJam events. This is a legacy role and can no longer be given out.
 
---- Section: Community Channels ----
+--- Section: Requests ----
 
-MMD allows members to request channels for their modding projects/teams. 
-Channel requests are mainly reserved for mod authors and those with projects that need a place to start out and grow. Community Channels belong in their own category, and are sorted alphabetically by the bot.
+## Roles
+MMD members can request a specific set of roles. See (#roles) for an explanation of what they are.
+However, the requirements for approval for the various rules are different, and shall be explained here:
 
-PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. 
-Permissions such as "Mention Everyone" are completely forbidden in every channel.
+- **Mod Coder** -  You must have a mod or plugin already published, via Modrinth or CurseForge. You must prove that you have contributed to the mod - GitHub is acceptable, as well as screenshots of CurseForge/Modrinth project management. However, MCreator users will ***NOT*** be granted roles, due to our policies.
 
-In addition, changing the permissions for bots and staff members is prohibited, as is moving your channel to another category/above or below it's set place. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
+- **Artist / Modeller** -  You must prove that you made the model or texture by adding the phrase "MMD" to it, but this can be deleted after verification. Note that this is explicitly for MINECRAFT artwork, you cannot apply with random art you have made.
+Alternatively, word-of-mouth from somebody else involved in the project is acceptable if, for example, you cannot currently edit the model/texture.
 
-If a user channel is inactive for 60+ days, a member of staff or the bot will send a message asking the channel owner to contact moderators. If no contact is made within 2 weeks (14 days), the channel will be archived.
+- **Modpack Maker / Translator** - There are no hard requirements for these roles, however some meaningful verification is required (eg. Github, CurseForge, other team members.)
 
-Archived channels are stored for up to 1 year and may be revived by staff upon request, only previous owner of the channel may request a channel revival and the user ID's must match to do so.
+For context on what constitutes as "CurseForge" verification, please note two things about the following screenshot:
+- The management page is open, and settings about the mod can be visibly modified.
+- The user page is open (the top right corner), and the user's profile picture and name can be seen.
 
-Note: Webhooks do not count towards channels being active, only user activity is counted.
+All verification for mods and modpacks must include a screenshot with both of these features open.
+<img src="/mmd/img/curseforge.png" id="curseforgeimage" style="width:100%; "></i>
+
+## Channels
+MMD allows members to request channels for their modding projects or teams.
+The modder will gain a portion of the community they can own for themselves; you may add webhooks, manage and pin messages, and do whatever you would otherwise like to do within your channel.
+
+Members that own channels are given free reign on the setup, but you must obey two specific rules:
+- Do not change permissions for Staff or Bot roles.
+- Do not grant ANYBODY the "Mention Everyone" permission.
+
+### Channel Archival
+Channels are expected to be moderately active; if there is no user activity (that means, webhooks from other servers don't count) in 60 days, we will follow up.
+If there is still no response, you will be presumed to be inactive, and the channel will be archived into a read-only state.	
+
+Archival lasts for up to 1 year. You may request that a channel be unarchived, but only if you are the one that originally requested it.
