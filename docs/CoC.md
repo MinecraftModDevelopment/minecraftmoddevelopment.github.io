@@ -11,7 +11,8 @@ The MMD server has many roles which are meant for members of the general communi
 
 - **Mod Coder** - Link your released project (the CurseForge/Modrinth url to it that is) and provide a screenshot of the settings page of your project exactly like the examples below, **with your username shown in the top right corner**.
 We would prefer one that is open/visible source but this is not mandatory, it makes it easier for us to verify you coded your mod. Editing the description of your project with a personal note for the moderation team can also be used for verification
-- **Artist/Modeler** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.  
+- **Artist/Modeler** - If you are assigned the artist role on a project's Curseforge page please link that page url in your Discord message. Then, edit and upload an example of your work with the MMD letters edited onto it somewhere in bold green to roles-or-channels.
+(This applies to both textures and models, this is how we try to verify you haven't just ripped a texture from the internet, if the project you work on is unreleased you may still apply but it might take a little longer)  
 - **Community Rep** - This role is for members that we consider the best representatives of what we like to see in members of the community. (This role cannot be requested!)
 - **Modpack Maker** - The process for modpack maker is the same as for Mod Coder. Modpacks don't have source code so this step can be ignored for this role.
 - **Translator** - Link a repository you have made a pull request to with a valid translation file. We however require that you link your Github account to your Discord account for this role.  
