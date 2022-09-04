@@ -1,31 +1,34 @@
 # Code Of Conduct
 
 ## Staff Roles & Expectations 
-- **Admins** - Admins are the ones making all of the top-level decisions. If you have any questions or want to arrange a partnership with MMD, you should talk to them. Admins are expected to deal with public relations, and also make sure everyone is in line. That said, they are not the dictators of MMD.
-- **Moderators** - Moderators help keep an eye on things. They are responsible for giving people the proper roles they need, and making sure everything runs smoothly. They are also responsible for answering questions about MMD, and making sure people are talking in the right place.
+- **Admins** - Admins are the ones making all of the top-level decisions. If you have any questions or want to arrange a partnership/event with MMD, you should talk to them. Admins are expected to deal with public relations, and also make sure everyone is in line. That said, they are not the dictators of MMD.
+- **Moderators** - Moderators help keep an eye on things. They are responsible for giving people the proper roles they need, and making sure everything runs smoothly. They are also responsible for answering questions about MMD, and making sure people are talking in the right place. They are also able to keep other members of staff in line should they stray from the rules no matter the rank.
 - **Staff** - This role is for anyone who is considered part of the MMD staff. They will have a similar permission level to moderators, however they also maintain some other major project related to MMD, such as an official MMD server. While they can handle moderator duties as well, that is not their primary purpose.
-- **Public Server Admin** - Public Server Admins are responsible for the public Minecraft server which MMD hosts. The channel for this server is `#public-minecraft-server`.
+- **Public Server Admin** - Public Server Admins are responsible for the public Minecraft server which MMD hosts.
 
 ## Role Requirements
-The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. MCreator users will ***NOT*** be granted roles. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator (@Moderators) in the `#role-requests` channel.
+The MMD server has many roles which are meant for members of the general community. These roles are usually given out by moderators when certain conditions are met. MCreator users will ***NOT*** be granted the mod coder role. To request one of the roles below you must familiarize yourself with the requirements and, unless otherwise noted, contact a moderator in the `#role-requests` channel.
 
-- **Mod Coder** - This role is for anyone who has made a mod or plugin for Minecraft. It is expected that anyone requesting this role has some level of experience with programming, and has a mod or plugin already published. To get this role you must provide a link to a mod/plugin you have authored. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)  
-- **Artist/Modeler** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.
-- **Community Rep** - This role is for members that we consider the best representatives of what we like to see in members of the community.
-- **Modpack Maker** - This role is for Modpack developers. There are no size/download count requirements, however you will be required to provide some verification in form of screenshot or any other form the moderator sees fitting. (Editing the description of the mod on CurseForge with a message for the staff is preferred but other options are available)
-- **Translator** - This role is for anyone who translates mods to other languages. 
-- **Public Server Player** - This role is for anyone who plays on MMD's public server. Should you want to be pinged with information about server and updates to the modpack, please mention `@Public Server Admin` and request the role be added to your account.  
+- **Mod Coder** - Link your released project (the CurseForge/Modrinth url to it that is) and provide a screenshot of the settings page of your project exactly like the examples below, **with your username shown in the top right corner**.
+We would prefer one that is open/visible source but this is not mandatory, it makes it easier for us to verify you coded your mod. Editing the description of your project with a personal note for the moderation team can also be used for verification
+- **Artist/Modeler** - This role is for anyone who makes artwork. To get this role you must contact a moderator and provide a link to your portfolio. While there is no quality control for this role, you must have some history in making artwork. Verification may be required.  
+- **Community Rep** - This role is for members that we consider the best representatives of what we like to see in members of the community. (This role cannot be requested!)
+- **Modpack Maker** - The process for modpack maker is the same as for Mod Coder. Modpacks don't have source code so this step can be ignored for this role.
+- **Translator** - Link a repository you have made a pull request to with a valid translation file. We however require that you link your Github account to your Discord account for this role.  
+
+[CurseForge Project Verification Example](https://raw.githubusercontent.com/MinecraftModDevelopment/minecraftmoddevelopment.github.io/master/docs/curseforge.png)  
+(Modrinth example coming soon!)
 
 ### Other Roles
 These roles are given at the discretion of the MMD staff when certain conditions are met. These roles should not be requested in `#role-requests`.
-
+- **Public Server Player** - This role is for anyone who plays on MMD's public server.
 - **Bot** - This role is for Discord bots that operate on the server, under the guidance of the maintainers.
 - **Bot Maintainer** - This role is for the people that maintain the Discord bots on the server.
 - **Retired Staff** - This role is for staff who retire from their staff position and powers.
-- **Event Team** - This role is for staff that manage and organize the currently running event, such as SpookyJam.
-- **SpookyJam 2020** - This role is for anyone who submitted an entry for SpookyJam 2020.
-- **SpookyJam 2019** - This role is for anyone who submitted an entry for SpookyJam 2019. 
-- **WinterJam 2019** - This role is for anyone who submitted an entry for WinterJam 2019.
+- **Event Team** - This role is for staff that manage and organize the currently running modding events.
+- **SpookyJam 2020** - This role is for anyone who submitted an entry for SpookyJam 2020. (This role is a legacy role and is no longer avaliable!)  
+- **SpookyJam 2019** - This role is for anyone who submitted an entry for SpookyJam 2019. (This role is a legacy role and is no longer avaliable!)  
+- **WinterJam 2019** - This role is for anyone who submitted an entry for WinterJam 2019. (This role is a legacy role and is no longer avaliable!)  
 - **Nitro Booster** - This role is automatically granted to anyone who boosts the server with Discord Nitro.
 
 ## Warnings & Bans
