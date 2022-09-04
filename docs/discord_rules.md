@@ -9,6 +9,8 @@ Keep pings to a minimum:Only ping people when needed (before sending DMs for exa
 Ping staff roles when needed:Pinging a staff role is more beneifical than pinging specific members, resulting in actions taken faster.
 Don't ask to ask:Please just ask questions; don't test the waters for the real question. Instead, ask the full question so that others can better understand what you need, rather than creating an atmosphere of assumptions and discouraging people from wanting to help.;n[More Information](https://solhsa.com/dontask.html)
 No invite links:Please send invite links only when asked for, or when approved by a moderator beforehand. This appliess especially to request and announcement channels.
+Want a shiny role to strut your stuff?: To request a role please see our guide [here](https://minecraftmoddevelopment.github.io/CoC.html#role-requirements) and make your request in ``role-or-channels`` and a member of staff will try to get to you as soon as possible.
+Want your own channel to show off your mods?: Users with the mod-coder role in MMD are able to request a channel to show off their mods and use it as a home base should you not want to run your own Discord server. [Channel Policy](https://minecraftmoddevelopment.github.io/CoC.html#channel-policy)
 <rulesEnd/>
 Please keep in mind that the opinions and views expressed by staff of MMD do not necessary reflect the opinions and views of MMD as a whole. Remember, we are individuals, who are not in any way obligated to help you with issues that do not involve the MMD server itself. Also, do not confuse MMD staff with the people who develop MMD mods! There is certainly some overlap, but that does not mean that a member of one knows anything about the other.
 
