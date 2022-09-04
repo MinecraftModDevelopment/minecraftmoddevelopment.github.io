@@ -6,7 +6,7 @@ Try to speak English:The common language in this server is English. We however u
 Try to solve your issues in public channels:Modding questions and/or requests _will not_ be answered in DMs.;nMake sure to ask people (preferrably with a ping) before DMing them or sending them a friend request.
 Do not promote illegal activity:This includes piracy, cheating, or any breach of Minecraft's [EULA](https://www.minecraft.net/en-us/eula) or similar documents.
 Keep pings to a minimum:Only ping people when needed (before sending DMs for example).;nMoreover, if people ask you to turn off ping replies, make sure to do so!
-Ping staff roles when needed:Pinging a staff role is more beneifical than pinging specific members, resulting in actions taken faster.
+Ping staff roles when needed:Pinging a staff role is more beneficial than pinging specific members, resulting in actions taken faster.
 Don't ask to ask:Please just ask questions; don't test the waters for the real question. Instead, ask the full question so that others can better understand what you need, rather than creating an atmosphere of assumptions and discouraging people from wanting to help.;n[More Information](https://solhsa.com/dontask.html)
 No invite links:Please send invite links only when asked for, or when approved by a moderator beforehand. This appliess especially to request and announcement channels.
 Want a shiny role to strut your stuff?: To request a role please see our guide [here](https://minecraftmoddevelopment.github.io/CoC.html#role-requirements) and make your request in ``role-or-channels`` and a member of staff will try to get to you as soon as possible.
