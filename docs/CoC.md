@@ -31,6 +31,16 @@ These roles are given at the discretion of the MMD staff when certain conditions
 - **WinterJam 2019** - This role is for anyone who submitted an entry for WinterJam 2019. (This role is a legacy role and is no longer avaliable!)  
 - **Nitro Booster** - This role is automatically granted to anyone who boosts the server with Discord Nitro.
 
+## Channel Policy
+MMD currently allows members to request new channels to be created. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion.  
+
+The general MMD rules also cover community channels but should someone be harassing/spamming your channel you can request we block a users access to your channel, this is done on a case by case basis and judged by the moderation team.  
+
+If a user owned channel is inactive for 60+ days, one of our bots will ping the channel owner/s with am embed and some buttons asking if you'd like to keep the channel or archive it.  
+You have roughly 14 days (2 weeks) to reply to the bots ping before staff will likely archive it for upto one year before deleating it.  
+However, you have the right to request we un-archive the channel before that year is up.  
+(NOTE: Webhooks do not count towards channels being active, only user activity is counted.)  
+
 ## Warnings & Bans
 The MMD server uses an infraction based system for handling warnings and bans. Moderators and admins can issue infractions to members. Each infraction has an associated point value, the higher the points the more serious the infraction is. The types of infractions available are split into major and minor categories. 
 
@@ -64,18 +74,3 @@ Keep in mind that some members have weird ways of interacting with each other. D
 
 ## Advertisement
 Using MMD as a platform to advertise content is not allowed. Exceptions to this policy are made for members who have some sort of relation with MMD. The first exception is made for MMD Partners. This group of people may make promotions and announcements in MMD, provided that they run things by an admin first. The second group of exceptions are for content creators who are recognized by MMD, and are posting in the designated channels. For example, modders are allowed to show off their new mods in `#community-announcements`. It is important to note that there is a difference between answering questions or having a conversation about another project, and a promotion or advertisement post. 
-
-## Channel Policy
-MMD currently allows members to request new channels to be created. We are also still allowing people with archived channels to reactivate theirs. While anyone can request a channel, this is typically reserved for mod authors and those with projects that need a place for discussion. The channel list is sorted alphabetically where possible, when adding and reactivating channels staff members should be sure they are added to the right place. All user channels should go in the "Community Mods" category unless otherwise stated.
-
-PLEASE NOTE: Channel owners are allowed to manage their own permissions, *however*, certain permissions are globally disabled on MMD and should *not* be re-enabled for *anyone*, including yourself, on user channels. Anyone found re-activating or using a prohibited permission may have their channel removed and an infraction added to the channel owner or owners. Prohibited permissions are as follows,
- and subject to change:
-
- * Mention Everyone
- * Manage Channel
- * Sync Permissions (This will break your channels permissions)
-
-In addition, changing the permissions for Staff, Moderators, or MMD Admins is prohibited, as is changing your channel category. Violations of these rules may lead to having your channel removed and an infraction added to the channel owner or owners.
-
-If a user channel is inactive for 60+ days, a staff member will send a message asking the channel owner to contact staff within 14 days. If they do not contact staff within that time frame the channel will be archived.
-NOTE: Webhooks do not count towards channels being active, only user activity is counted.
