@@ -15,7 +15,7 @@ Want your own channel to show off your mods?: Users with the mod-coder role in M
 Please keep in mind that the opinions and views expressed by staff of MMD do not necessary reflect the opinions and views of MMD as a whole. Remember, we are individuals, who are not in any way obligated to help you with issues that do not involve the MMD server itself. Also, do not confuse MMD staff with the people who develop MMD mods! There is certainly some overlap, but that does not mean that a member of one knows anything about the other.
 
 Have a nice stay here. See you around!
-P.S: You can find an invite to the server here: <https://discord.mcmoddev.com/>
+P.S: You can find an invite to the server here: <https://discord.tophatcat.dev/>
 <embeds>
 Title: Welcome to MMD!
 Thumbnail: https://cdn.discordapp.com/icons/176780432371744769/66852fa35256a5dc19d449dde6786fc1.webp?size=240
