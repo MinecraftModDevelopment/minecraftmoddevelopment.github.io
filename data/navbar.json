@@ -1,6 +1,6 @@
 {
   "settings": {
-    "copy": "Copyright &copy; Minecraft Mod Development 2016 - 2022"
+    "copy": "Copyright &copy; Minecraft Mod Development 2016 - 2023"
   },
   "data": [
     {
@@ -17,11 +17,6 @@
       "text": "Github",
       "url": "_blank",
       "href": "https://github.com/MinecraftModDevelopmentMods/"
-    },
-    {
-      "text": "Twitter",
-      "url": "_blank",
-      "href": "https://twitter.com/MCModDev"
     },
     {
       "text": "Discord",
