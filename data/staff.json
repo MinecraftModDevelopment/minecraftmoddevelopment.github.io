@@ -5,11 +5,6 @@
     "role": "MMD Admin | Mod Developer"
   },
   {
-    "user": "GetDizzy",
-    "icon": "../img/members/getdizzy.jpg",
-    "role": "MMD Admin"
-  },
-  {
     "user": "KiriCattus",
     "icon": "../img/members/kiricattus.png",
     "role": "MMD Admin | Bot/Server Admin"
@@ -27,7 +22,7 @@
   {
     "user": "Curle",
     "icon": "../img/members/curle.png",
-    "role": "Moderator | Bot/Server Admin"
+    "role": "Admin | Bot/Server Admin"
   },
   {
     "user": "Carstorm",
